@@ -2292,6 +2292,52 @@
     ],
     "subtitle": "subtitles.block.generic.place"
   },
+  "block.lodestone.break": {
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ]
+  },
+  "block.lodestone.step": {
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
+  "block.lodestone.place": {
+    "sounds": [
+      "block/lodestone/place1",
+      "block/lodestone/place2",
+      "block/lodestone/place3",
+      "block/lodestone/place4"
+    ]
+  },
+  "block.lodestone.hit": {
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
+  "block.lodestone.fall": {
+    "sounds": [
+      "step/stone1",
+      "step/stone2",
+      "step/stone3",
+      "step/stone4",
+      "step/stone5",
+      "step/stone6"
+    ]
+  },
   "block.metal.break": {
     "sounds": [
       "dig/stone1",
@@ -9349,6 +9395,190 @@
       "mob/stray/step4"
     ]
   },
+  "entity.strider.ambient": {
+    "sounds": [
+      {
+        "name": "mob/strider/idle1",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/idle2",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/idle3",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/idle4",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/idle5",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/idle6",
+        "volume": 1
+      }
+    ]
+  },
+  "entity.strider.eat": {
+    "sounds": [
+      {
+        "name": "mob/strider/eat1",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/eat2",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/eat3",
+        "volume": 1
+      }
+    ]
+  },
+  "entity.strider.happy": {
+    "sounds": [
+      {
+        "name": "mob/strider/happy1",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/happy2",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/happy3",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/happy4",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/happy5",
+        "volume": 1
+      }
+    ]
+  },
+  "entity.strider.hurt": {
+    "sounds": [
+      {
+        "name": "mob/strider/hurt1",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/hurt2",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/hurt3",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/hurt4",
+        "volume": 1
+      }
+    ]
+  },
+  "entity.strider.death": {
+    "sounds": [
+      {
+        "name": "mob/strider/death1",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/death2",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/death3",
+        "volume": 1
+      },
+      {
+        "name": "mob/strider/death4",
+        "volume": 1
+      }
+    ]
+  },
+  "entity.strider.retreat": {
+    "sounds": [
+      {
+        "name": "mob/strider/retreat1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/strider/retreat2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/strider/retreat3",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/strider/retreat4",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/strider/retreat5",
+        "volume": 0.8
+      }
+    ]
+  },
+  "entity.strider.step": {
+    "sounds": [
+      {
+        "name": "mob/strider/step1",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/strider/step2",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/strider/step3",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/strider/step4",
+        "volume": 0.25
+      },
+      {
+        "name": "mob/strider/step5",
+        "volume": 0.25
+      }
+    ]
+  },
+  "entity.strider.step_lava": {
+    "sounds": [
+      {
+        "name": "mob/strider/step_lava1",
+        "volume": 0.2
+      },
+      {
+        "name": "mob/strider/step_lava2",
+        "volume": 0.2
+      },
+      {
+        "name": "mob/strider/step_lava3",
+        "volume": 0.2
+      },
+      {
+        "name": "mob/strider/step_lava4",
+        "volume": 0.2
+      },
+      {
+        "name": "mob/strider/step_lava5",
+        "volume": 0.2
+      },
+      {
+        "name": "mob/strider/step_lava6",
+        "volume": 0.2
+      }
+    ]
+  },
   "entity.tnt.primed": {
     "sounds": [
       "random/fuse"
@@ -10982,6 +11212,27 @@
       "item/hoe/till4"
     ],
     "subtitle": "subtitles.item.hoe.till"
+  },
+  "item.lodestone_compass.lock": {
+    "sounds": [
+      {
+        "name": "block/lodestone/lock1",
+        "pitch": 0.85
+      },
+      {
+        "name": "block/lodestone/lock2",
+        "pitch": 0.85
+      },
+      {
+        "name": "block/lodestone/lock1",
+        "pitch": 0.95
+      },
+      {
+        "name": "block/lodestone/lock2",
+        "pitch": 0.95
+      }
+    ],
+    "subtitle": "subtitles.item.lodestone_compass.lock"
   },
   "item.nether_wart.plant": {
     "sounds": [

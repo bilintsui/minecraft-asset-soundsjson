@@ -8917,7 +8917,8 @@
         "volum": 0.8,
         "pitch": 0.8
       }
-    ]
+    ],
+    "subtitle": "subtitles.entity.goat.long_jump"
   },
   "entity.goat.screaming.long_jump": {
     "sounds": [
@@ -8941,7 +8942,8 @@
         "volum": 0.8,
         "pitch": 0.8
       }
-    ]
+    ],
+    "subtitle": "subtitles.entity.goat.long_jump"
   },
   "entity.goat.milk": {
     "sounds": [
@@ -9024,7 +9026,8 @@
         "name": "mob/goat/pre_ram4",
         "volume": 0.8
       }
-    ]
+    ],
+    "subtitle": "subtitles.entity.goat.prepare_ram"
   },
   "entity.goat.screaming.prepare_ram": {
     "sounds": [
@@ -9048,7 +9051,8 @@
         "name": "mob/goat/screaming_pre_ram5",
         "volume": 0.8
       }
-    ]
+    ],
+    "subtitle": "subtitles.entity.goat.prepare_ram"
   },
   "entity.goat.ram_impact": {
     "sounds": [
@@ -9064,7 +9068,8 @@
         "name": "mob/goat/impact2",
         "volume": 0.8
       }
-    ]
+    ],
+    "subtitle": "subtitles.entity.goat.ram_impact"
   },
   "entity.goat.screaming.ram_impact": {
     "sounds": [
@@ -9080,7 +9085,8 @@
         "name": "mob/goat/impact2",
         "volume": 0.8
       }
-    ]
+    ],
+    "subtitle": "subtitles.entity.goat.ram_impact"
   },
   "entity.guardian.ambient_land": {
     "sounds": [

@@ -6439,6 +6439,111 @@
     ],
     "subtitle": "subtitles.entity.arrow.shoot"
   },
+  "entity.axolotl.death": {
+    "sounds": [
+      "mob/axolotl/death1",
+      "mob/axolotl/death2"
+    ],
+    "subtitle": "subtitles.entity.axolotl.death"
+  },
+  "entity.axolotl.hurt": {
+    "sounds": [
+      "mob/axolotl/hurt1",
+      "mob/axolotl/hurt2",
+      "mob/axolotl/hurt3",
+      "mob/axolotl/hurt4"
+    ],
+    "subtitle": "subtitles.entity.axolotl.hurt"
+  },
+  "entity.axolotl.idle_water": {
+    "sounds": [
+      "mob/axolotl/idle1",
+      "mob/axolotl/idle2",
+      "mob/axolotl/idle3",
+      "mob/axolotl/idle4",
+      "mob/axolotl/idle5"
+    ],
+    "subtitle": "subtitles.entity.axolotl.idle_water"
+  },
+  "entity.axolotl.idle_air": {
+    "sounds": [
+      {
+        "name": "mob/axolotl/idle_air1",
+        "volume": 1
+      },
+      {
+        "name": "mob/axolotl/idle_air2",
+        "volume": 1
+      },
+      {
+        "name": "mob/axolotl/idle_air3",
+        "volume": 0.8,
+        "pitch": 1.2
+      },
+      {
+        "name": "mob/axolotl/idle_air4",
+        "volume": 1
+      },
+      {
+        "name": "mob/axolotl/idle_air5",
+        "pitch": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.axolotl.idle_air"
+  },
+  "entity.axolotl.swim": {
+    "sounds": [
+      "mob/dolphin/swim1",
+      "mob/dolphin/swim2",
+      "mob/dolphin/swim3",
+      "mob/dolphin/swim4",
+      "entity/fish/swim5",
+      "entity/fish/swim6",
+      "entity/fish/swim7"
+    ],
+    "subtitle": "subtitles.entity.axolotl.swim"
+  },
+  "entity.axolotl.splash": {
+    "sounds": [
+      {
+        "name": "mob/dolphin/splash1",
+        "volume": 0.9,
+        "pitch": 1.2
+      },
+      {
+        "name": "mob/dolphin/splash2",
+        "volume": 0.9,
+        "pitch": 1.2
+      },
+      {
+        "name": "mob/dolphin/splash3",
+        "volume": 0.9,
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.entity.axolotl.splash"
+  },
+  "entity.axolotl.attack": {
+    "sounds": [
+      {
+        "name": "mob/axolotl/attack1",
+        "volume": 0.5
+      },
+      {
+        "name": "mob/axolotl/attack2",
+        "volume": 0.5
+      },
+      {
+        "name": "mob/axolotl/attack3",
+        "volume": 0.5
+      },
+      {
+        "name": "mob/axolotl/attack4",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.entity.axolotl.attack"
+  },
   "entity.bat.ambient": {
     "sounds": [
       "mob/bat/idle1",
@@ -13399,6 +13504,14 @@
     ],
     "subtitle": "subtitles.item.bucket.empty"
   },
+  "item.bucket.empty_axolotl": {
+    "sounds": [
+      "item/bucket/empty_fish1",
+      "item/bucket/empty_fish2",
+      "item/bucket/empty_fish3"
+    ],
+    "subtitle": "subtitles.item.bucket.empty"
+  },
   "item.bucket.empty_fish": {
     "sounds": [
       "item/bucket/empty_fish1",
@@ -13451,6 +13564,23 @@
       "item/bucket/fill3"
     ],
     "subtitle": "subtitles.item.bucket.fill"
+  },
+  "item.bucket.fill_axolotl": {
+    "sounds": [
+      {
+        "name": "item/bucket/fill_axolotl1",
+        "pitch": 1
+      },
+      {
+        "name": "item/bucket/fill_axolotl2",
+        "pitch": 1
+      },
+      {
+        "name": "item/bucket/fill_axolotl3",
+        "pitch": 1
+      }
+    ],
+    "subtitle": "subtitles.item.bucket.fill_axolotl"
   },
   "item.bucket.fill_fish": {
     "sounds": [

@@ -156,6 +156,27 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "event.raid.horn": {
+    "sounds": [
+      {
+        "name": "event/raid/raidhorn_01",
+        "volume": 0.01
+      },
+      {
+        "name": "event/raid/raidhorn_02",
+        "volume": 0.01
+      },
+      {
+        "name": "event/raid/raidhorn_03",
+        "volume": 0.01
+      },
+      {
+        "name": "event/raid/raidhorn_04",
+        "volume": 0.01
+      }
+    ],
+    "subtitle": "subtitles.event.raid.horn"
+  },
   "block.anvil.use": {
     "sounds": [
       "random/anvil_use"
@@ -416,6 +437,41 @@
       }
     ],
     "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.bell.use": {
+    "sounds": [
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 12,
+        "pitch": 0.95
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 12,
+        "pitch": 0.95
+      },
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 12,
+        "pitch": 0.93
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 12,
+        "pitch": 0.93
+      },
+      {
+        "name": "block/bell/bell_use01",
+        "volume": 12,
+        "pitch": 0.97
+      },
+      {
+        "name": "block/bell/bell_use02",
+        "volume": 12,
+        "pitch": 0.97
+      }
+    ],
+    "subtitle": "subtitles.block.bell.use"
   },
   "block.brewing_stand.brew": {
     "sounds": [

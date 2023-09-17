@@ -4139,6 +4139,114 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.powder_snow.break": {
+    "sounds": [
+      "block/powder_snow/break1",
+      "block/powder_snow/break2",
+      "block/powder_snow/break3",
+      "block/powder_snow/break4",
+      "block/powder_snow/break5",
+      "block/powder_snow/break6",
+      "block/powder_snow/break7"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.powder_snow.fall": {
+    "sounds": [
+      "block/powder_snow/step1",
+      "block/powder_snow/step2",
+      "block/powder_snow/step3",
+      "block/powder_snow/step4",
+      "block/powder_snow/step5",
+      "block/powder_snow/step6",
+      "block/powder_snow/step7",
+      "block/powder_snow/step8",
+      "block/powder_snow/step9",
+      "block/powder_snow/step10"
+    ]
+  },
+  "block.powder_snow.hit": {
+    "sounds": [
+      {
+        "name": "block/powder_snow/step1",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step2",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step3",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step4",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step5",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step6",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step7",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step8",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step9",
+        "volume": 0.83,
+        "pitch": 1.3
+      },
+      {
+        "name": "block/powder_snow/step10",
+        "volume": 0.83,
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.powder_snow.place": {
+    "sounds": [
+      "block/powder_snow/break1",
+      "block/powder_snow/break2",
+      "block/powder_snow/break3",
+      "block/powder_snow/break4",
+      "block/powder_snow/break5",
+      "block/powder_snow/break6",
+      "block/powder_snow/break7"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.powder_snow.step": {
+    "sounds": [
+      "block/powder_snow/step1",
+      "block/powder_snow/step2",
+      "block/powder_snow/step3",
+      "block/powder_snow/step4",
+      "block/powder_snow/step5",
+      "block/powder_snow/step6",
+      "block/powder_snow/step7",
+      "block/powder_snow/step8",
+      "block/powder_snow/step9",
+      "block/powder_snow/step10"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.soul_sand.break": {
     "sounds": [
       "block/soul_sand/break1",
@@ -10514,6 +10622,16 @@
     ],
     "subtitle": "subtitles.entity.player.hurt_on_fire"
   },
+  "entity.player.hurt_freeze": {
+    "sounds": [
+      "entity/player/hurt/freeze_hurt1",
+      "entity/player/hurt/freeze_hurt2",
+      "entity/player/hurt/freeze_hurt3",
+      "entity/player/hurt/freeze_hurt4",
+      "entity/player/hurt/freeze_hurt5"
+    ],
+    "subtitle": "subtitles.entity.player.freeze_hurt"
+  },
   "entity.player.hurt_sweet_berry_bush": {
     "sounds": [
       "entity/player/hurt/berrybush_hurt1",
@@ -12951,6 +13069,35 @@
     ],
     "subtitle": "subtitles.item.bucket.empty"
   },
+  "item.bucket.empty_powder_snow": {
+    "sounds": [
+      {
+        "name": "item/bucket/empty_powder_snow1",
+        "pitch": 1
+      },
+      {
+        "name": "item/bucket/empty_powder_snow2",
+        "pitch": 1
+      },
+      {
+        "name": "item/bucket/empty_powder_snow1",
+        "pitch": 0.95
+      },
+      {
+        "name": "item/bucket/empty_powder_snow2",
+        "pitch": 0.95
+      },
+      {
+        "name": "item/bucket/empty_powder_snow1",
+        "pitch": 1.1
+      },
+      {
+        "name": "item/bucket/empty_powder_snow2",
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.item.bucket.empty"
+  },
   "item.bucket.fill": {
     "sounds": [
       "item/bucket/fill1",
@@ -12972,6 +13119,35 @@
       "item/bucket/fill_lava1",
       "item/bucket/fill_lava2",
       "item/bucket/fill_lava3"
+    ],
+    "subtitle": "subtitles.item.bucket.fill"
+  },
+  "item.bucket.fill_powder_snow": {
+    "sounds": [
+      {
+        "name": "item/bucket/fill_powder_snow1",
+        "pitch": 1.0
+      },
+      {
+        "name": "item/bucket/fill_powder_snow2",
+        "pitch": 1.0
+      },
+      {
+        "name": "item/bucket/fill_powder_snow1",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bucket/fill_powder_snow2",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bucket/fill_powder_snow1",
+        "pitch": 1.1
+      },
+      {
+        "name": "item/bucket/fill_powder_snow2",
+        "pitch": 1.1
+      }
     ],
     "subtitle": "subtitles.item.bucket.fill"
   },

@@ -7919,6 +7919,33 @@
       }
     ]
   },
+  "ui.stonecutter.select_recipe" : {
+    "sounds": [
+      "random/click"
+    ]
+  },
+  "ui.stonecutter.take_result": {
+    "sounds": [
+      {
+        "name": "ui/stonecutter/cut1",
+        "volume": 1
+      },
+      {
+        "name": "ui/stonecutter/cut1",
+        "volume": 1,
+        "pitch": 0.92
+      },
+      {
+        "name":"ui/stonecutter/cut2",
+        "volume": 1
+      },
+      {
+        "name":"ui/stonecutter/cut2",
+        "volume": 1,
+        "pitch": 0.92
+      }
+    ]
+  },
   "weather.rain": {
     "sounds": [
       "ambient/weather/rain1",

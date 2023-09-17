@@ -1508,7 +1508,191 @@
     ],
     "subtitle": "subtitles.block.generic.break"
   },
-
+  "block.sculk_sensor.clicking_stop": {
+    "sounds": [
+      "block/sculk_sensor/sculk_clicking_stop1",
+      "block/sculk_sensor/sculk_clicking_stop2",
+      "block/sculk_sensor/sculk_clicking_stop3",
+      "block/sculk_sensor/sculk_clicking_stop4",
+      "block/sculk_sensor/sculk_clicking_stop5"
+    ],
+    "subtitle": "subtitles.block.sculk_sensor.clicking_stop"
+  },
+  "block.sculk_sensor.clicking": {
+    "sounds": [
+      {
+        "name": "block/sculk_sensor/sculk_clicking1",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk_sensor/sculk_clicking2",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk_sensor/sculk_clicking3",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk_sensor/sculk_clicking4",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk_sensor/sculk_clicking5",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk_sensor/sculk_clicking6",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.block.sculk_sensor.clicking"
+  },
+  "block.sculk_sensor.fall": {
+    "sounds": [
+      {
+        "name": "block/sculk/step1",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step2",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step3",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step4",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step5",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step6",
+        "volume": 1
+      }
+    ]
+  },
+  "block.sculk_sensor.hit": {
+    "sounds": [
+      {
+        "name": "block/sculk/step1",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step2",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step3",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step4",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step5",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step6",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.sculk_sensor.step": {
+    "sounds": [
+      {
+        "name": "block/sculk/step1",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step2",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step3",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step4",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step5",
+        "volume": 1
+      },
+      {
+        "name": "block/sculk/step6",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.sculk_sensor.place": {
+    "sounds": [
+      {
+        "name": "block/sculk_sensor/place1",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "block/sculk_sensor/place2",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "block/sculk_sensor/place3",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "block/sculk_sensor/place4",
+        "pitch": 1.2,
+        "volume": 0.8
+      },
+      {
+        "name": "block/sculk_sensor/place5",
+        "pitch": 1.2,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.sculk_sensor.break": {
+    "sounds": [
+      {
+        "name": "block/sculk_sensor/break1",
+        "pitch": 1.2,
+        "volume": 0.9
+      },
+      {
+        "name": "block/sculk_sensor/break2",
+        "pitch": 1.2,
+        "volume": 0.9
+      },
+      {
+        "name": "block/sculk_sensor/break3",
+        "pitch": 1.2,
+        "volume": 0.9
+      },
+      {
+        "name": "block/sculk_sensor/break4",
+        "pitch": 1.2,
+        "volume": 0.9
+      },
+      {
+        "name": "block/sculk_sensor/break5",
+        "pitch": 1.2,
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
   "event.raid.horn": {
     "sounds": [
       {

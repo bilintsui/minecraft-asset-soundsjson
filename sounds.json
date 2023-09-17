@@ -3471,35 +3471,30 @@
     ],
     "subtitle": "subtitles.entity.fox.eat"
   },
-  "entity.fox.bark": {
+  "entity.fox.screech": {
     "sounds": [
       {
-        "name": "mob/fox/bark1",
+        "name": "mob/fox/screech1",
         "attenuation_distance": 32,
         "volume": 0.45
       },
       {
-        "name": "mob/fox/bark2",
+        "name": "mob/fox/screech2",
         "attenuation_distance": 32,
         "volume": 0.45
       },
       {
-        "name": "mob/fox/bark3",
+        "name": "mob/fox/screech3",
         "attenuation_distance": 32,
         "volume": 0.45
       },
       {
-        "name": "mob/fox/bark4",
+        "name": "mob/fox/screech4",
         "attenuation_distance": 32,
         "volume": 0.4
-      },
-      {
-        "name": "mob/fox/bark5",
-        "attenuation_distance": 32,
-        "volume": 0.3
       }
     ],
-    "subtitle": "subtitles.entity.fox.bark"
+    "subtitle": "subtitles.entity.fox.screech"
   },
   "entity.fox.sleep": {
     "sounds": [
@@ -4409,6 +4404,154 @@
       "minecart/base"
     ],
     "subtitle": "subtitles.entity.minecart.riding"
+  },
+  "entity.mooshroom.convert": {
+    "sounds": [
+      {
+        "name": "mob/mooshroom/convert1",
+        "volume": 0.75
+      },
+      {
+        "name": "mob/mooshroom/convert2",
+        "volume": 0.75
+      }
+    ],
+    "subtitle": "subtitles.entity.mooshroom.convert"
+  },
+  "entity.mooshroom.eat": {
+    "sounds": [
+      {
+        "name": "mob/mooshroom/eat1",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/eat2",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/eat3",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/eat4",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/eat1",
+        "pitch": 0.95
+      },
+      {
+        "name": "mob/mooshroom/eat2",
+        "pitch": 0.95
+      },
+      {
+        "name": "mob/mooshroom/eat3",
+        "pitch": 0.95
+      },
+      {
+        "name": "mob/mooshroom/eat4",
+        "pitch": 0.95
+      },
+      {
+        "name": "mob/mooshroom/eat1",
+        "pitch": 1.05
+      },
+      {
+        "name": "mob/mooshroom/eat2",
+        "pitch": 1.05
+      },
+      {
+        "name": "mob/mooshroom/eat3",
+        "pitch": 1.05
+      },
+      {
+        "name": "mob/mooshroom/eat4",
+        "pitch": 1.05
+      }
+    ],
+    "subtitle": "subtitles.entity.mooshroom.eat"
+  },
+  "entity.mooshroom.milk": {
+    "sounds": [
+      {
+        "name": "mob/mooshroom/milk1",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/milk2",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/milk3",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/milk1",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/mooshroom/milk2",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/mooshroom/milk3",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/mooshroom/milk1",
+        "pitch": 1.1
+      },
+      {
+        "name": "mob/mooshroom/milk2",
+        "pitch": 1.1
+      },
+      {
+        "name": "mob/mooshroom/milk3",
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.entity.mooshroom.milk"
+  },
+  "entity.mooshroom.suspicious_milk": {
+    "sounds": [
+      {
+        "name": "mob/mooshroom/milk1",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/milk2",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/milk3",
+        "volume": 1
+      },
+      {
+        "name": "mob/mooshroom/milk1",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/mooshroom/milk2",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/mooshroom/milk3",
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/mooshroom/milk1",
+        "pitch": 1.1
+      },
+      {
+        "name": "mob/mooshroom/milk2",
+        "pitch": 1.1
+      },
+      {
+        "name": "mob/mooshroom/milk3",
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.entity.mooshroom.suspicious_milk"
   },
   "entity.mooshroom.shear": {
     "sounds": [

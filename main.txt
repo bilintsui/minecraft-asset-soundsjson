@@ -438,6 +438,28 @@
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
+  "block.barrel.close": {
+    "sounds": [
+      {
+        "name":  "block/barrel/close",
+        "volume": 1
+      }
+    ]
+  },
+  "block.barrel.open": {
+    "sounds": [
+      {
+        "name":  "block/barrel/open1",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name":  "block/barrel/open2",
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
   "block.bell.use": {
     "sounds": [
       {
@@ -472,6 +494,31 @@
       }
     ],
     "subtitle": "subtitles.block.bell.use"
+  },
+  "block.blastfurnace.fire_crackle": {
+    "sounds": [
+      {
+        "name": "block/furnace/fire_crackle1",
+        "pitch": 0.6
+      },
+      {
+        "name": "block/furnace/fire_crackle2",
+        "pitch": 0.6
+      },
+      {
+        "name": "block/furnace/fire_crackle3",
+        "pitch": 0.6
+      },
+      {
+        "name": "block/furnace/fire_crackle4",
+        "pitch": 0.6
+      },
+      {
+        "name": "block/furnace/fire_crackle5",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.block.blastfurnace.fire_crackle"
   },
   "block.brewing_stand.brew": {
     "sounds": [
@@ -613,6 +660,86 @@
       "random/click"
     ],
     "subtitle": "subtitles.block.comparator.click"
+  },
+  "block.composter.fill": {
+    "sounds": [
+      {
+        "name": "block/composter/fill1",
+        "volume": 0.3,
+        "pitch": 0.8
+      },
+      {
+        "name": "block/composter/fill2",
+        "volume": 0.3,
+        "pitch": 0.8
+      },
+      {
+        "name": "block/composter/fill3",
+        "volume": 0.3,
+        "pitch": 0.8
+      },
+      {
+        "name": "block/composter/fill4",
+        "volume": 0.3,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "block.composter.fill_success": {
+    "sounds": [
+      {
+        "name": "block/composter/fill_success1",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/fill_success2",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/fill_success3",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/fill_success4",
+        "volume": 1
+      }
+    ]
+  },
+  "block.composter.empty": {
+    "sounds": [
+      {
+        "name": "block/composter/empty1",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/empty2",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/empty3",
+        "volume": 1
+      }
+    ]
+  },
+  "block.composter.ready": {
+    "sounds": [
+      {
+        "name": "block/composter/ready1",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/ready2",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/ready3",
+        "volume": 1
+      },
+      {
+        "name": "block/composter/ready4",
+        "volume": 1
+      }
+    ]
   },
   "block.conduit.activate": {
     "sounds": [
@@ -877,6 +1004,23 @@
       "step/grass6"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.grindstone.use": {
+    "sounds": [
+      {
+        "name":  "block/grindstone/grindstone1",
+        "volume": 0.5
+      },
+      {
+        "name":  "block/grindstone/grindstone2",
+        "volume": 0.5
+      },
+      {
+        "name": "block/grindstone/grindstone3",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.grindstone.use"
   },
   "block.wet_grass.break": {
     "sounds": [
@@ -1524,6 +1668,18 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.smoker.smoke": {
+    "sounds": [
+      "block/smoker/smoke1",
+      "block/smoker/smoke2",
+      {
+        "name": "block/furnace/fire_crackle4",
+        "pitch": 0.8
+      }
+
+    ],
+    "subtitle": "subtitles.block.smoker.smoke"
+  },
   "block.snow.break": {
     "sounds": [
       "dig/snow1",
@@ -1641,6 +1797,34 @@
       "random/click"
     ],
     "subtitle": "subtitles.block.pressure_plate.click"
+  },
+  "block.sweet_berry_bush.break": {
+    "sounds": [
+      {
+        "name": "block/sweet_berry_bush/berrybush_break1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/berrybush_break2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/berrybush_break3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/berrybush_break4",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.sweet_berry_bush.place": {
+    "sounds": [
+      "block/sweet_berry_bush/berrybush1",
+      "block/sweet_berry_bush/berrybush2"
+    ],
+    "subtitle": "subtitles.block.generic.place"
   },
   "block.tripwire.attach": {
     "sounds": [
@@ -5048,6 +5232,12 @@
       "entity/player/hurt/fire_hurt3"
     ]
   },
+  "entity.player.hurt_sweet_berry_bush": {
+    "sounds": [
+      "entity/player/hurt/berrybush_hurt1",
+      "entity/player/hurt/berrybush_hurt2"
+    ]
+  },
   "entity.player.levelup": {
     "sounds": [
       "random/levelup"
@@ -7073,6 +7263,188 @@
     ],
     "subtitle": "subtitles.item.hoe.till"
   },
+  "item.nether_wart.plant": {
+    "sounds": [
+      {
+        "name": "item/plant/netherwart1",
+        "volume": 0.75
+      },
+      {
+        "name": "item/plant/netherwart2",
+        "volume": 0.75
+      },
+      {
+        "name": "item/plant/netherwart3",
+        "volume": 0.75
+      },
+      {
+        "name": "item/plant/netherwart4",
+        "volume": 0.75
+      },
+      {
+        "name": "item/plant/netherwart5",
+        "volume": 0.75
+      },
+      {
+        "name": "item/plant/netherwart6",
+        "volume": 0.75
+      },
+      {
+        "name": "item/plant/netherwart1",
+        "volume": 0.75,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart2",
+        "volume": 0.75,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart3",
+        "volume": 0.75,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart4",
+        "volume": 0.75,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart5",
+        "volume": 0.75,
+        "pitch": 1.12
+      },
+      {
+        "name": "item/plant/netherwart6",
+        "volume": 0.75,
+        "pitch": 1.12
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "item.crop.plant": {
+    "sounds": [
+      {
+        "name":  "item/plant/crop1",
+        "volume": 0.4
+      },
+      {
+        "name":  "item/plant/crop2",
+        "volume": 0.4
+      },
+      {
+        "name": "item/plant/crop3",
+        "volume": 0.4
+      },
+      {
+        "name": "item/plant/crop4",
+        "volume": 0.4
+      },
+      {
+        "name":  "item/plant/crop5",
+        "volume": 0.4
+      },
+      {
+        "name":  "item/plant/crop6",
+        "volume": 0.4
+      },
+      {
+        "name":  "item/plant/crop1",
+        "volume": 0.4,
+        "pitch": 1.2
+      },
+      {
+        "name":  "item/plant/crop2",
+        "volume": 0.4,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop3",
+        "volume": 0.4,
+        "pitch": 1.2
+      },
+      {
+        "name":  "item/plant/crop4",
+        "volume": 0.4,
+        "pitch": 1.2
+      },
+      {
+        "name":  "item/plant/crop5",
+        "volume": 0.4,
+        "pitch": 1.2
+      },
+      {
+        "name": "item/plant/crop6",
+        "volume": 0.4,
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.crop.break": {
+    "sounds": [
+      {
+        "name":  "block/bamboo/sapling_place1",
+        "volume": 0.65
+      },
+      {
+        "name":  "block/bamboo/sapling_place2",
+        "volume": 0.65
+      },
+      {
+        "name": "block/bamboo/sapling_place3",
+        "volume": 0.65
+      },
+      {
+        "name": "block/bamboo/sapling_place4",
+        "volume": 0.65
+      },
+      {
+        "name":  "block/bamboo/sapling_place5",
+        "volume": 0.65
+      },
+      {
+        "name":  "block/bamboo/sapling_place6",
+        "volume": 0.65
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.nether_wart.break": {
+    "sounds": [
+      {
+        "name":  "item/plant/netherwart1",
+        "volume": 0.75,
+        "pitch": 0.9
+      },
+      {
+        "name":  "item/plant/netherwart2",
+        "volume": 0.75,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart3",
+        "volume": 0.75,
+        "pitch": 0.9
+      },
+      {
+        "name":  "item/plant/netherwart4",
+        "volume": 0.75,
+        "pitch": 0.9
+      },
+      {
+        "name":  "item/plant/netherwart5",
+        "volume": 0.75,
+        "pitch": 0.9
+      },
+      {
+        "name": "item/plant/netherwart6",
+        "volume": 0.75,
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
   "item.shield.block": {
     "sounds": [
       "item/shield/block1",
@@ -7103,6 +7475,13 @@
       "item/totem/use_totem"
     ],
     "subtitle": "subtitles.item.totem.use"
+  },
+  "item.sweet_berries.pick_from_bush": {
+    "sounds": [
+      "item/sweet_berries/pick_from_bush1",
+      "item/sweet_berries/pick_from_bush2"
+    ],
+    "subtitle": "subtitles.item.berries.pick"
   },
   "item.trident.hit": {
     "sounds": [

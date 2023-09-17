@@ -3680,6 +3680,12 @@
     ],
     "subtitle": "subtitles.block.grindstone.use"
   },
+  "block.growing_plant.crop": {
+    "sounds": [
+      "mob/sheep/shear"
+    ],
+    "subtitle": "subtitles.block.growing_plant.crop"
+  },
   "block.hanging_roots.break": {
     "sounds": [
       "block/hanging_roots/break1",
@@ -9327,20 +9333,20 @@
     "sounds": [
       {
         "name": "mob/goat/jump1",
-        "pitch": 0.8,
         "volume": 0.8
       },
       {
         "name": "mob/goat/jump1",
-        "volume": 0.8
-      },
-      {
-        "name": "mob/goat/jump2",
         "pitch": 0.8,
         "volume": 0.8
       },
       {
         "name": "mob/goat/jump2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/jump2",
+        "pitch": 0.8,
         "volume": 0.8
       }
     ],

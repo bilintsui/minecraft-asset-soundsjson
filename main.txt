@@ -3387,6 +3387,398 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.deepslate.break": {
+    "sounds": [
+      "block/deepslate/break1",
+      "block/deepslate/break2",
+      "block/deepslate/break3",
+      "block/deepslate/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.deepslate.fall": {
+    "sounds": [
+      "block/deepslate/step1",
+      "block/deepslate/step2",
+      "block/deepslate/step3",
+      "block/deepslate/step4",
+      "block/deepslate/step5",
+      "block/deepslate/step6"
+    ]
+  },
+  "block.deepslate.hit": {
+    "sounds": [
+      "block/deepslate/step1",
+      "block/deepslate/step2",
+      "block/deepslate/step3",
+      "block/deepslate/step4",
+      "block/deepslate/step5",
+      "block/deepslate/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.deepslate.place": {
+    "sounds": [
+      "block/deepslate/place1",
+      "block/deepslate/place2",
+      "block/deepslate/place3",
+      "block/deepslate/place4",
+      "block/deepslate/place5",
+      "block/deepslate/place6"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.deepslate.step": {
+    "sounds": [
+      "block/deepslate/step1",
+      "block/deepslate/step2",
+      "block/deepslate/step3",
+      "block/deepslate/step4",
+      "block/deepslate/step5",
+      "block/deepslate/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.polished_deepslate.break": {
+    "sounds": [
+      "block/deepslate/break1",
+      "block/deepslate/break2",
+      "block/deepslate/break3",
+      "block/deepslate/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.polished_deepslate.fall": {
+    "sounds": [
+      "block/deepslate/step1",
+      "block/deepslate/step2",
+      "block/deepslate/step3",
+      "block/deepslate/step4",
+      "block/deepslate/step5",
+      "block/deepslate/step6"
+    ]
+  },
+  "block.polished_deepslate.hit": {
+    "sounds": [
+      "block/deepslate/step1",
+      "block/deepslate/step2",
+      "block/deepslate/step3",
+      "block/deepslate/step4",
+      "block/deepslate/step5",
+      "block/deepslate/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.polished_deepslate.place": {
+    "sounds": [
+      "block/deepslate/place1",
+      "block/deepslate/place2",
+      "block/deepslate/place3",
+      "block/deepslate/place4",
+      "block/deepslate/place5",
+      "block/deepslate/place6"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.polished_deepslate.step": {
+    "sounds": [
+      "block/deepslate/step1",
+      "block/deepslate/step2",
+      "block/deepslate/step3",
+      "block/deepslate/step4",
+      "block/deepslate/step5",
+      "block/deepslate/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.deepslate_bricks.break": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/place1",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place2",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place3",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place4",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place5",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place6",
+        "pitch": 1,
+        "volume": 0.85
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.deepslate_bricks.fall": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/step1",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step2",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step3",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step4",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step5",
+        "pitch": 1
+      }
+    ]
+  },
+  "block.deepslate_bricks.hit": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/step1",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step2",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step3",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step4",
+        "pitch": 1
+      },
+      {
+        "name": "block/deepslate_bricks/step5",
+        "pitch": 1
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.deepslate_bricks.place": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/place1",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place2",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place3",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place4",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place5",
+        "pitch": 1,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place6",
+        "pitch": 1,
+        "volume": 0.85
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.deepslate_bricks.step": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/step1",
+        "pitch": 0.9
+      },
+      {
+        "name": "block/deepslate_bricks/step2",
+        "pitch": 0.9
+      },
+      {
+        "name": "block/deepslate_bricks/step3",
+        "pitch": 0.9
+      },
+      {
+        "name": "block/deepslate_bricks/step4",
+        "pitch": 0.9
+      },
+      {
+        "name": "block/deepslate_bricks/step5",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.deepslate_tiles.break": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/place1",
+        "pitch": 1.3,
+        "volume": 0.92
+      },
+      {
+        "name": "block/deepslate_bricks/place2",
+        "pitch": 1.3,
+        "volume": 0.92
+      },
+      {
+        "name": "block/deepslate_bricks/place3",
+        "pitch": 1.3,
+        "volume": 0.92
+      },
+      {
+        "name": "block/deepslate_bricks/place4",
+        "pitch": 1.3,
+        "volume": 0.92
+      },
+      {
+        "name": "block/deepslate_bricks/place5",
+        "pitch": 1.3,
+        "volume": 0.92
+      },
+      {
+        "name": "block/deepslate_bricks/place6",
+        "pitch": 1.3,
+        "volume": 0.92
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.deepslate_tiles.fall": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/step1",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step2",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step3",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step4",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step5",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "block.deepslate_tiles.hit": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/step1",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step2",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step3",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step4",
+        "pitch": 1.3
+      },
+      {
+        "name": "block/deepslate_bricks/step5",
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.deepslate_tiles.place": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/place1",
+        "pitch": 1.2,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place2",
+        "pitch": 1.2,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place3",
+        "pitch": 1.2,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place4",
+        "pitch": 1.2,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place5",
+        "pitch": 1.2,
+        "volume": 0.85
+      },
+      {
+        "name": "block/deepslate_bricks/place6",
+        "pitch": 1.2,
+        "volume": 0.85
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.deepslate_tiles.step": {
+    "sounds": [
+      {
+        "name": "block/deepslate_bricks/step1",
+        "pitch": 1.2
+      },
+      {
+        "name": "block/deepslate_bricks/step2",
+        "pitch": 1.2
+      },
+      {
+        "name": "block/deepslate_bricks/step3",
+        "pitch": 1.2
+      },
+      {
+        "name": "block/deepslate_bricks/step4",
+        "pitch": 1.2
+      },
+      {
+        "name": "block/deepslate_bricks/step5",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.grindstone.use": {
     "sounds": [
       {
@@ -15378,12 +15770,30 @@
   },
   "block.rooted_dirt.hit": {
     "sounds": [
-      "block/rooted_dirt/step1",
-      "block/rooted_dirt/step2",
-      "block/rooted_dirt/step3",
-      "block/rooted_dirt/step4",
-      "block/rooted_dirt/step5",
-      "block/rooted_dirt/step6"
+      {
+        "name":  "block/rooted_dirt/step1",
+        "volume": 0.8
+      },
+      {
+        "name":  "block/rooted_dirt/step2",
+        "volume": 0.8
+      },
+      {
+        "name":  "block/rooted_dirt/step3",
+        "volume": 0.8
+      },
+      {
+        "name":  "block/rooted_dirt/step4",
+        "volume": 0.8
+      },
+      {
+        "name":  "block/rooted_dirt/step5",
+        "volume": 0.8
+      },
+      {
+        "name":  "block/rooted_dirt/step6",
+        "volume": 0.8
+      }
     ],
     "subtitle": "subtitles.block.generic.hit"
   },

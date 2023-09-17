@@ -2844,6 +2844,168 @@
     ],
     "subtitle": "subtitles.block.dispenser.dispense"
   },
+  "block.dripstone_block.break": {
+    "sounds": [
+      "block/dripstone/break1",
+      "block/dripstone/break2",
+      "block/dripstone/break3",
+      "block/dripstone/break4",
+      "block/dripstone/break5"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.dripstone_block.fall": {
+    "sounds": [
+      "block/dripstone/step1",
+      "block/dripstone/step2",
+      "block/dripstone/step3",
+      "block/dripstone/step4",
+      "block/dripstone/step5",
+      "block/dripstone/step6"
+    ]
+  },
+  "block.dripstone_block.hit": {
+    "sounds": [
+      "block/dripstone/step1",
+      "block/dripstone/step2",
+      "block/dripstone/step3",
+      "block/dripstone/step4",
+      "block/dripstone/step5",
+      "block/dripstone/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.dripstone_block.place": {
+    "sounds": [
+      "block/dripstone/break1",
+      "block/dripstone/break2",
+      "block/dripstone/break3",
+      "block/dripstone/break4",
+      "block/dripstone/break5"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.dripstone_block.step": {
+    "sounds": [
+      "block/dripstone/step1",
+      "block/dripstone/step2",
+      "block/dripstone/step3",
+      "block/dripstone/step4",
+      "block/dripstone/step5",
+      "block/dripstone/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.pointed_dripstone.break": {
+    "sounds": [
+      "block/dripstone/break1",
+      "block/dripstone/break2",
+      "block/dripstone/break3",
+      "block/dripstone/break4",
+      "block/dripstone/break5"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.pointed_dripstone.fall": {
+    "sounds": [
+      "block/dripstone/step1",
+      "block/dripstone/step2",
+      "block/dripstone/step3",
+      "block/dripstone/step4",
+      "block/dripstone/step5",
+      "block/dripstone/step6"
+    ]
+  },
+  "block.pointed_dripstone.land": {
+    "sounds": [
+      "block/pointed_dripstone/land1",
+      "block/pointed_dripstone/land2",
+      "block/pointed_dripstone/land3",
+      "block/pointed_dripstone/land4",
+      "block/pointed_dripstone/land5"
+    ]
+  },
+  "block.pointed_dripstone.hit": {
+    "sounds": [
+      "block/dripstone/step1",
+      "block/dripstone/step2",
+      "block/dripstone/step3",
+      "block/dripstone/step4",
+      "block/dripstone/step5",
+      "block/dripstone/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.pointed_dripstone.place": {
+    "sounds": [
+      "block/dripstone/break1",
+      "block/dripstone/break2",
+      "block/dripstone/break3",
+      "block/dripstone/break4",
+      "block/dripstone/break5"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.pointed_dripstone.step": {
+    "sounds": [
+      "block/dripstone/step1",
+      "block/dripstone/step2",
+      "block/dripstone/step3",
+      "block/dripstone/step4",
+      "block/dripstone/step5",
+      "block/dripstone/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.pointed_dripstone.drip_lava": {
+    "sounds": [
+      "block/pointed_dripstone/drip_lava1",
+      "block/pointed_dripstone/drip_lava2",
+      "block/pointed_dripstone/drip_lava3",
+      "block/pointed_dripstone/drip_lava4",
+      "block/pointed_dripstone/drip_lava5",
+      "block/pointed_dripstone/drip_lava6"
+    ]
+  },
+  "block.pointed_dripstone.drip_lava_into_cauldron": {
+    "sounds": [
+      "block/pointed_dripstone/drip_lava_cauldron1",
+      "block/pointed_dripstone/drip_lava_cauldron2",
+      "block/pointed_dripstone/drip_lava_cauldron3",
+      "block/pointed_dripstone/drip_lava_cauldron4"
+    ]
+  },
+  "block.pointed_dripstone.drip_water": {
+    "sounds": [
+      "block/pointed_dripstone/drip_water1",
+      "block/pointed_dripstone/drip_water2",
+      "block/pointed_dripstone/drip_water3",
+      "block/pointed_dripstone/drip_water4",
+      "block/pointed_dripstone/drip_water5",
+      "block/pointed_dripstone/drip_water6",
+      "block/pointed_dripstone/drip_water7",
+      "block/pointed_dripstone/drip_water8",
+      "block/pointed_dripstone/drip_water9",
+      "block/pointed_dripstone/drip_water10",
+      "block/pointed_dripstone/drip_water11",
+      "block/pointed_dripstone/drip_water12",
+      "block/pointed_dripstone/drip_water13",
+      "block/pointed_dripstone/drip_water14",
+      "block/pointed_dripstone/drip_water15"
+    ]
+  },
+  "block.pointed_dripstone.drip_water_into_cauldron": {
+    "sounds": [
+      "block/pointed_dripstone/drip_water_cauldron1",
+      "block/pointed_dripstone/drip_water_cauldron2",
+      "block/pointed_dripstone/drip_water_cauldron3",
+      "block/pointed_dripstone/drip_water_cauldron4",
+      "block/pointed_dripstone/drip_water_cauldron5",
+      "block/pointed_dripstone/drip_water_cauldron6",
+      "block/pointed_dripstone/drip_water_cauldron7",
+      "block/pointed_dripstone/drip_water_cauldron8"
+    ]
+  },
   "block.enchantment_table.use": {
     "sounds": [
       "block/enchantment_table/enchant1",

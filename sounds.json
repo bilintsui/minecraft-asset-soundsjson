@@ -6490,6 +6490,14 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "event.raid.horn_local": {
+    "sounds": [],
+    "subtitle": "subtitles.event.raid.horn_local"
+  },
+  "event.raid.horn_distant": {
+    "sounds": [],
+    "subtitle": "subtitles.event.raid.horn_distant"
+  },
   "item.armor.equip_chain": {
     "sounds": [
       "item/armor/equip_chain1",

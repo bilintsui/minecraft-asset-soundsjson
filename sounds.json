@@ -936,7 +936,8 @@
         "name": "block/amethyst/shimmer",
         "volume": 0.2
       }
-    ]
+    ],
+    "subtitle": "subtitles.block.amethyst_block.chime"
   },
   "block.amethyst_block.fall": {
     "sounds": [

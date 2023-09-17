@@ -1273,6 +1273,84 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.lantern.break": {
+    "sounds": [
+      "block/lantern/break1",
+      "block/lantern/break2",
+      "block/lantern/break3",
+      "block/lantern/break4",
+      "block/lantern/break5",
+      "block/lantern/break6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.lantern.fall": {
+    "sounds": [
+      "block/lantern/break1",
+      "block/lantern/break2",
+      "block/lantern/break3",
+      "block/lantern/break4",
+      "block/lantern/break5",
+      "block/lantern/break6"
+    ]
+  },
+  "block.lantern.hit": {
+    "sounds": [
+      "block/lantern/place1",
+      "block/lantern/place2",
+      "block/lantern/place3",
+      "block/lantern/place4",
+      "block/lantern/place5",
+      "block/lantern/place6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.lantern.place": {
+    "sounds": [
+      {
+        "name": "block/lantern/place1",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "block/lantern/place2",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "block/lantern/place3",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "block/lantern/place4",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "block/lantern/place5",
+        "volume": 1,
+        "pitch": 1.1
+      },
+      {
+        "name": "block/lantern/place6",
+        "volume": 1,
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.lantern.step": {
+    "sounds": [
+      "block/lantern/break1",
+      "block/lantern/break2",
+      "block/lantern/break3",
+      "block/lantern/break4",
+      "block/lantern/break5",
+      "block/lantern/break6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.lava.ambient": {
     "sounds": [
       "liquid/lava"
@@ -1801,19 +1879,19 @@
   "block.sweet_berry_bush.break": {
     "sounds": [
       {
-        "name": "block/sweet_berry_bush/berrybush_break1",
+        "name": "block/sweet_berry_bush/break1",
         "volume": 0.8
       },
       {
-        "name": "block/sweet_berry_bush/berrybush_break2",
+        "name": "block/sweet_berry_bush/break2",
         "volume": 0.8
       },
       {
-        "name": "block/sweet_berry_bush/berrybush_break3",
+        "name": "block/sweet_berry_bush/break3",
         "volume": 0.8
       },
       {
-        "name": "block/sweet_berry_bush/berrybush_break4",
+        "name": "block/sweet_berry_bush/break4",
         "volume": 0.8
       }
     ],
@@ -1821,8 +1899,30 @@
   },
   "block.sweet_berry_bush.place": {
     "sounds": [
-      "block/sweet_berry_bush/berrybush1",
-      "block/sweet_berry_bush/berrybush2"
+      {
+        "name": "block/sweet_berry_bush/place1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/place2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/place3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/place4",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/place5",
+        "volume": 0.8
+      },
+      {
+        "name": "block/sweet_berry_bush/place6",
+        "volume": 0.8
+      }
     ],
     "subtitle": "subtitles.block.generic.place"
   },
@@ -3605,164 +3705,164 @@
       "mob/husk/step5"
     ]
   },
-  "entity.illager_beast.ambient": {
+  "entity.ravager.ambient": {
     "sounds": [
       {
-        "name": "mob/illager_beast/idle1",
+        "name": "mob/ravager/idle1",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle2",
+        "name": "mob/ravager/idle2",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle3",
+        "name": "mob/ravager/idle3",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle4",
+        "name": "mob/ravager/idle4",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle5",
+        "name": "mob/ravager/idle5",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle6",
+        "name": "mob/ravager/idle6",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle7",
+        "name": "mob/ravager/idle7",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/idle8",
+        "name": "mob/ravager/idle8",
         "volume": 1
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.ambient"
+    "subtitle": "subtitles.entity.ravager.ambient"
   },
-  "entity.illager_beast.attack": {
+  "entity.ravager.attack": {
     "sounds": [
       {
-        "name": "mob/illager_beast/bite1",
+        "name": "mob/ravager/bite1",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/bite2",
+        "name": "mob/ravager/bite2",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/bite3",
+        "name": "mob/ravager/bite3",
         "volume": 1
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.attack"
+    "subtitle": "subtitles.entity.ravager.attack"
   },
-  "entity.illager_beast.death": {
+  "entity.ravager.death": {
     "sounds": [
       {
-        "name": "mob/illager_beast/death1",
+        "name": "mob/ravager/death1",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/death2",
+        "name": "mob/ravager/death2",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/death3",
+        "name": "mob/ravager/death3",
         "volume": 1
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.death"
+    "subtitle": "subtitles.entity.ravager.death"
   },
-  "entity.illager_beast.hurt": {
+  "entity.ravager.hurt": {
     "sounds": [
       {
-        "name": "mob/illager_beast/hurt1",
+        "name": "mob/ravager/hurt1",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/hurt2",
+        "name": "mob/ravager/hurt2",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/hurt3",
+        "name": "mob/ravager/hurt3",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/hurt4",
+        "name": "mob/ravager/hurt4",
         "volume": 1
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.hurt"
+    "subtitle": "subtitles.entity.ravager.hurt"
   },
-  "entity.illager_beast.step": {
+  "entity.ravager.step": {
     "sounds": [
       {
-        "name": "mob/illager_beast/step1",
+        "name": "mob/ravager/step1",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/step2",
+        "name": "mob/ravager/step2",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/step3",
+        "name": "mob/ravager/step3",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/step4",
+        "name": "mob/ravager/step4",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/step5",
+        "name": "mob/ravager/step5",
         "volume": 1
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.step"
+    "subtitle": "subtitles.entity.ravager.step"
   },
-  "entity.illager_beast.stunned": {
+  "entity.ravager.stunned": {
     "sounds": [
       {
-        "name": "mob/illager_beast/stun1",
+        "name": "mob/ravager/stun1",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/stun2",
+        "name": "mob/ravager/stun2",
         "volume": 1
       },
       {
-        "name": "mob/illager_beast/stun3",
+        "name": "mob/ravager/stun3",
         "volume": 1
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.stunned"
+    "subtitle": "subtitles.entity.ravager.stunned"
   },
-  "entity.illager_beast.roar": {
+  "entity.ravager.roar": {
     "sounds": [
       {
-        "name": "mob/illager_beast/roar1",
+        "name": "mob/ravager/roar1",
         "volume": 1,
         "attenuation_distance": 35
       },
       {
-        "name": "mob/illager_beast/roar2",
+        "name": "mob/ravager/roar2",
         "volume": 1,
         "attenuation_distance": 35
       },
       {
-        "name": "mob/illager_beast/roar3",
+        "name": "mob/ravager/roar3",
         "volume": 1,
         "attenuation_distance": 35
       },
       {
-        "name": "mob/illager_beast/roar4",
+        "name": "mob/ravager/roar4",
         "volume": 1,
         "attenuation_distance": 35
       }
     ],
-    "subtitle": "subtitles.entity.illager_beast.roar"
+    "subtitle": "subtitles.entity.ravager.roar"
   },
   "entity.illusioner.ambient": {
     "sounds": [
@@ -6388,6 +6488,120 @@
       "mob/vindication_illager/hurt3"
     ],
     "subtitle": "subtitles.entity.vindicator.hurt"
+  },
+  "entity.wandering_trader.ambient": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/idle1",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/idle2",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/idle3",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/idle4",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/idle5",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.wandering_trader.ambient"
+  },
+  "entity.wandering_trader.death": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/death",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.wandering_trader.death"
+  },
+  "entity.wandering_trader.hurt": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/hurt1",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/hurt2",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/hurt3",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/hurt4",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.wandering_trader.hurt"
+  },
+  "entity.wandering_trader.no": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/no1",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/no2",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/no3",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/no4",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/no5",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.wandering_trader.no"
+  },
+  "entity.wandering_trader.trade": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/haggle1",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/haggle2",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.wandering_trader.trade"
+  },
+  "entity.wandering_trader.yes": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/yes1",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/yes2",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/yes3",
+        "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/yes4",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.wandering_trader.yes"
   },
   "entity.witch.ambient": {
     "sounds": [

@@ -6578,6 +6578,10 @@
       {
         "name": "mob/wandering_trader/haggle2",
         "volume": 1
+      },
+      {
+        "name": "mob/wandering_trader/haggle3",
+        "volume": 1
       }
     ],
     "subtitle": "subtitles.entity.wandering_trader.trade"
@@ -8071,6 +8075,13 @@
   "ui.button.click": {
     "sounds": [
       "random/click"
+    ]
+  },
+  "ui.cartography_table.take_result": {
+    "sounds": [
+      "ui/cartography_table/drawmap1",
+      "ui/cartography_table/drawmap2",
+      "ui/cartography_table/drawmap3"
     ]
   },
   "ui.loom.select_pattern": {

@@ -1313,6 +1313,91 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+
+  "block.scaffolding.break": {
+    "sounds": [
+
+      {
+        "name": "block/scaffold/place1",
+        "volume": 0.8,
+        "pitch": 1.4
+      },
+      {
+        "name": "block/scaffold/place2",
+        "volume": 0.8,
+        "pitch": 1.4
+      },
+      {
+        "name": "block/scaffold/place3",
+        "volume": 0.8,
+        "pitch": 1.4
+      },
+      {
+        "name": "block/scaffold/place4",
+        "volume": 0.8,
+        "pitch": 1.4
+      }
+
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.scaffolding.fall": {
+    "sounds": [
+      "step/scaffold1",
+      "step/scaffold2",
+      "step/scaffold3",
+      "step/scaffold4",
+      "step/scaffold5",
+      "step/scaffold6",
+      "step/scaffold7"
+    ]
+  },
+  "block.scaffolding.hit": {
+    "sounds": [
+      "step/scaffold1",
+      "step/scaffold2",
+      "step/scaffold3",
+      "step/scaffold4",
+      "step/scaffold5",
+      "step/scaffold6",
+      "step/scaffold7"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.scaffolding.place": {
+    "sounds": [
+      {
+        "name": "block/scaffold/place1",
+        "volume": 0.9
+      },
+      {
+        "name": "block/scaffold/place2",
+        "volume": 0.9
+      },
+      {
+        "name": "block/scaffold/place3",
+        "volume": 0.9
+      },
+      {
+        "name": "block/scaffold/place4",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.scaffolding.step": {
+    "sounds": [
+      "step/scaffold1",
+      "step/scaffold2",
+      "step/scaffold3",
+      "step/scaffold4",
+      "step/scaffold5",
+      "step/scaffold6",
+      "step/scaffold7"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+
   "block.shulker_box.close": {
     "sounds": [
       "block/shulker_box/close"

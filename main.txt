@@ -3941,12 +3941,30 @@
   },
   "block.netherrack.hit": {
     "sounds": [
-      "block/netherrack/step1",
-      "block/netherrack/step2",
-      "block/netherrack/step3",
-      "block/netherrack/step4",
-      "block/netherrack/step5",
-      "block/netherrack/step6"
+      {
+        "name": "block/netherrack/step1",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step2",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step3",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step4",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step5",
+        "volume": 0.55
+      },
+      {
+        "name": "block/netherrack/step6",
+        "volume": 0.55
+      }
     ],
     "subtitle": "subtitles.block.generic.hit"
   },
@@ -12849,7 +12867,8 @@
         "volume": 1,
         "pitch": 0.92
       }
-    ]
+    ],
+    "subtitle": "subtitles.ui.stonecutter.take_result"
   },
   "weather.rain": {
     "sounds": [

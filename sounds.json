@@ -9621,6 +9621,50 @@
     ],
     "subtitle": "subtitles.entity.item_frame.rotate_item"
   },
+  "entity.glow_item_frame.add_item": {
+    "sounds": [
+      "entity/itemframe/add_item1",
+      "entity/itemframe/add_item2",
+      "entity/itemframe/add_item3",
+      "entity/itemframe/add_item4"
+    ],
+    "subtitle": "subtitles.entity.glow_item_frame.add_item"
+  },
+  "entity.glow_item_frame.break": {
+    "sounds": [
+      "entity/itemframe/break1",
+      "entity/itemframe/break2",
+      "entity/itemframe/break3"
+    ],
+    "subtitle": "subtitles.entity.glow_item_frame.break"
+  },
+  "entity.glow_item_frame.place": {
+    "sounds": [
+      "entity/itemframe/place1",
+      "entity/itemframe/place2",
+      "entity/itemframe/place3",
+      "entity/itemframe/place4"
+    ],
+    "subtitle": "subtitles.entity.glow_item_frame.place"
+  },
+  "entity.glow_item_frame.remove_item": {
+    "sounds": [
+      "entity/itemframe/remove_item1",
+      "entity/itemframe/remove_item2",
+      "entity/itemframe/remove_item3",
+      "entity/itemframe/remove_item4"
+    ],
+    "subtitle": "subtitles.entity.glow_item_frame.remove_item"
+  },
+  "entity.glow_item_frame.rotate_item": {
+    "sounds": [
+      "entity/itemframe/rotate_item1",
+      "entity/itemframe/rotate_item2",
+      "entity/itemframe/rotate_item3",
+      "entity/itemframe/rotate_item4"
+    ],
+    "subtitle": "subtitles.entity.glow_item_frame.rotate_item"
+  },
   "entity.leash_knot.break": {
     "sounds": [
       "entity/leashknot/break1",

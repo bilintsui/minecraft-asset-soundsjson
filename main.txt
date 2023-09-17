@@ -8709,35 +8709,35 @@
     "sounds": [
       {
         "name": "mob/goat/idle1",
-        "volume": 0.85
+        "volume": 0.82
       },
       {
         "name": "mob/goat/idle2",
-        "volume": 0.85
+        "volume": 0.82
       },
       {
         "name": "mob/goat/idle3",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle4",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle5",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle6",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle7",
-        "volume": 0.85
+        "volume": 0.83
       },
       {
         "name": "mob/goat/idle8",
-        "volume": 0.85
+        "volume": 0.84
       }
     ],
     "subtitle": "subtitles.entity.goat.ambient"
@@ -8746,35 +8746,35 @@
     "sounds": [
       {
         "name": "mob/goat/idle1",
-        "volume": 0.85
+        "volume": 0.82
       },
       {
         "name": "mob/goat/idle2",
-        "volume": 0.85
+        "volume": 0.82
       },
       {
         "name": "mob/goat/idle3",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle4",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle5",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle6",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/idle7",
-        "volume": 0.85
+        "volume": 0.83
       },
       {
         "name": "mob/goat/idle8",
-        "volume": 0.85
+        "volume": 0.84
       },
       {
         "name": "mob/goat/scream1",
@@ -8803,9 +8803,17 @@
       {
         "name": "mob/goat/scream7",
         "volume": 0.9
+      },
+      {
+        "name": "mob/goat/scream8",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/goat/scream9",
+        "volume": 0.9
       }
     ],
-    "subtitle": "subtitles.entity.goat.ambient"
+    "subtitle": "subtitles.entity.goat.screaming.ambient"
   },
   "entity.goat.death": {
     "sounds": [
@@ -8835,23 +8843,15 @@
   "entity.goat.screaming.death": {
     "sounds": [
       {
-        "name": "mob/goat/death1",
+        "name": "mob/goat/screaming_death1",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/death2",
+        "name": "mob/goat/screaming_death2",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/death3",
-        "volume": 0.65
-      },
-      {
-        "name": "mob/goat/death4",
-        "volume": 0.65
-      },
-      {
-        "name": "mob/goat/death5",
+        "name": "mob/goat/screaming_death3",
         "volume": 0.65
       }
     ],
@@ -8881,39 +8881,101 @@
   "entity.goat.screaming.hurt": {
     "sounds": [
       {
-        "name": "mob/goat/hurt1",
+        "name": "mob/goat/screaming_hurt1",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/hurt2",
+        "name": "mob/goat/screaming_hurt2",
         "volume": 0.65
       },
       {
-        "name": "mob/goat/hurt3",
-        "volume": 0.65
-      },
-      {
-        "name": "mob/goat/hurt4",
+        "name": "mob/goat/screaming_hurt3",
         "volume": 0.65
       }
     ],
     "subtitle": "subtitles.entity.goat.hurt"
   },
+  "entity.goat.long_jump": {
+    "sounds": [
+      {
+        "name": "mob/goat/jump1",
+        "volum": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "mob/goat/jump2",
+        "volum": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "mob/goat/jump1",
+        "volum": 0.8,
+        "pitch": 0.8
+      },
+      {
+        "name": "mob/goat/jump2",
+        "volum": 0.8,
+        "pitch": 0.8
+      }
+    ]
+  },
+  "entity.goat.screaming.long_jump": {
+    "sounds": [
+      {
+        "name": "mob/goat/jump1",
+        "volum": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "mob/goat/jump2",
+        "volum": 0.8,
+        "pitch": 1
+      },
+      {
+        "name": "mob/goat/jump1",
+        "volum": 0.8,
+        "pitch": 0.8
+      },
+      {
+        "name": "mob/goat/jump2",
+        "volum": 0.8,
+        "pitch": 0.8
+      }
+    ]
+  },
   "entity.goat.milk": {
     "sounds": [
-      "entity/cow/milk1",
-      "entity/cow/milk2",
-      "entity/cow/milk3"
+      "mob/mooshroom/milk1",
+      "mob/mooshroom/milk2",
+      "mob/mooshroom/milk3"
     ],
     "subtitle": "subtitles.entity.goat.milk"
   },
   "entity.goat.screaming.milk": {
     "sounds": [
-      "entity/cow/milk1",
-      "entity/cow/milk2",
-      "entity/cow/milk3"
+      "mob/goat/screaming_milk1",
+      "mob/goat/screaming_milk2",
+      "mob/goat/screaming_milk3",
+      "mob/goat/screaming_milk4",
+      "mob/goat/screaming_milk5"
     ],
     "subtitle": "subtitles.entity.goat.milk"
+  },
+  "entity.goat.eat": {
+    "sounds": [
+      "mob/goat/eat1",
+      "mob/goat/eat2",
+      "mob/goat/eat3"
+    ],
+    "subtitle": "subtitles.entity.goat.eat"
+  },
+  "entity.goat.screaming.eat": {
+    "sounds": [
+      "mob/goat/eat1",
+      "mob/goat/eat2",
+      "mob/goat/eat3"
+    ],
+    "subtitle": "subtitles.entity.goat.eat"
   },
   "entity.goat.step": {
     "sounds": [
@@ -8955,11 +9017,67 @@
         "volume": 0.8
       },
       {
-        "name": "mob/gpat/pre_ram3",
+        "name": "mob/goat/pre_ram3",
         "volume": 0.8
       },
       {
         "name": "mob/goat/pre_ram4",
+        "volume": 0.8
+      }
+    ]
+  },
+  "entity.goat.screaming.prepare_ram": {
+    "sounds": [
+      {
+        "name": "mob/goat/screaming_pre_ram1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/screaming_pre_ram2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/screaming_pre_ram3",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/screaming_pre_ram4",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/screaming_pre_ram5",
+        "volume": 0.8
+      }
+    ]
+  },
+  "entity.goat.ram_impact": {
+    "sounds": [
+      {
+        "name": "mob/goat/impact1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/impact2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/impact2",
+        "volume": 0.8
+      }
+    ]
+  },
+  "entity.goat.screaming.ram_impact": {
+    "sounds": [
+      {
+        "name": "mob/goat/impact1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/impact2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/goat/impact2",
         "volume": 0.8
       }
     ]
@@ -14327,6 +14445,71 @@
       }
     ],
     "subtitle": "subtitles.item.axe.wax_off"
+  },
+  "item.bone_meal.use": {
+    "sounds": [
+      {
+        "name": "item/bonemeal/bonemeal1",
+        "pitch": 1
+      },
+      {
+        "name": "item/bonemeal/bonemeal2",
+        "pitch": 1
+      },
+      {
+        "name": "item/bonemeal/bonemeal3",
+        "pitch": 1
+      },
+      {
+        "name": "item/bonemeal/bonemeal4",
+        "pitch": 1
+      },
+      {
+        "name": "item/bonemeal/bonemeal5",
+        "pitch": 1
+      },
+      {
+        "name": "item/bonemeal/bonemeal1",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bonemeal/bonemeal2",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bonemeal/bonemeal3",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bonemeal/bonemeal4",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bonemeal/bonemeal5",
+        "pitch": 0.9
+      },
+      {
+        "name": "item/bonemeal/bonemeal1",
+        "pitch": 1.1
+      },
+      {
+        "name": "item/bonemeal/bonemeal2",
+        "pitch": 1.1
+      },
+      {
+        "name": "item/bonemeal/bonemeal3",
+        "pitch": 1.1
+      },
+      {
+        "name": "item/bonemeal/bonemeal4",
+        "pitch": 1.1
+      },
+      {
+        "name": "item/bonemeal/bonemeal5",
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.item.bone_meal.use"
   },
   "item.book.page_turn": {
     "sounds": [

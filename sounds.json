@@ -82,17 +82,17 @@
       {
         "name": "ambient/nether/basalt_deltas/click1",
         "weight": 20,
-        "volume": 0.25
+        "volume": 0.19
       },
       {
         "name": "ambient/nether/basalt_deltas/click2",
         "weight": 20,
-        "volume": 0.25
+        "volume": 0.19
       },
       {
         "name": "ambient/nether/basalt_deltas/click3",
         "weight": 20,
-        "volume": 0.25
+        "volume": 0.19
       },
       {
         "name": "ambient/nether/basalt_deltas/click4",
@@ -210,7 +210,7 @@
       {
         "name": "ambient/nether/crimson_forest/ambience",
         "stream": true,
-        "volume": 0.71
+        "volume": 0.74
       }
     ]
   },
@@ -333,7 +333,7 @@
       {
         "name": "ambient/nether/warped_forest/ambience",
         "stream": true,
-        "volume": 0.7
+        "volume": 0.74
       }
     ]
   },
@@ -509,7 +509,7 @@
       {
         "name": "ambient/nether/soulsand_valley/ambience",
         "stream": true,
-        "volume": 0.83
+        "volume": 0.85
       }
     ]
   },
@@ -677,7 +677,7 @@
       {
         "name": "ambient/nether/nether_wastes/ambience",
         "stream": true,
-        "volume": 0.76
+        "volume": 0.77
       }
     ]
   },
@@ -12447,6 +12447,14 @@
     "sounds": [
       {
         "name": "records/mellohi",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.pigstep": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
         "stream": true
       }
     ]

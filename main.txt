@@ -1924,6 +1924,46 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.respawn_anchor.charge": {
+    "sounds": [
+      "block/respawn_anchor/charge1",
+      "block/respawn_anchor/charge2",
+      "block/respawn_anchor/charge3"
+    ],
+    "subtitle": "subtitles.block.respawn_anchor.charge"
+  },
+  "block.respawn_anchor.deplete": {
+    "sounds": [
+      "block/respawn_anchor/deplete1",
+      "block/respawn_anchor/deplete2"
+    ],
+    "subtitle": "subtitles.block.respawn_anchor.deplete"
+  },
+  "block.respawn_anchor.set_spawn": {
+    "sounds": [
+      "block/respawn_anchor/set_spawn1",
+      "block/respawn_anchor/set_spawn2",
+      "block/respawn_anchor/set_spawn3"
+    ],
+    "subtitle": "subtitles.block.respawn_anchor.set_spawn"
+  },
+  "block.respawn_anchor.ambient": {
+    "sounds": [
+      {
+        "attenuation_distance": 7,
+        "name":  "block/respawn_anchor/ambient1"
+      },
+      {
+        "attenuation_distance": 7,
+        "name": "block/respawn_anchor/ambient2"
+      },
+      {
+        "attenuation_distance": 7,
+        "name": "block/respawn_anchor/ambient3"
+      }
+    ],
+    "subtitle": "subtitles.block.respawn_anchor.ambient"
+  },
   "block.gravel.break": {
     "sounds": [
       "dig/gravel1",

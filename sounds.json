@@ -5753,17 +5753,6 @@
     ],
     "subtitle": "subtitles.entity.parrot.imitate.pillager"
   },
-  "entity.parrot.imitate.polar_bear": {
-    "sounds": [
-      {
-        "name": "entity.polar_bear.ambient",
-        "pitch": 1.8,
-        "type": "event",
-        "volume": 0.5
-      }
-    ],
-    "subtitle": "subtitles.entity.parrot.imitate.polar_bear"
-  },
   "entity.parrot.imitate.ravager": {
     "sounds": [
       {
@@ -5895,17 +5884,6 @@
     ],
     "subtitle": "subtitles.entity.parrot.imitate.wither_skeleton"
   },
-  "entity.parrot.imitate.wolf": {
-    "sounds": [
-      {
-        "name": "entity.wolf.ambient",
-        "pitch": 1.8,
-        "type": "event",
-        "volume": 0.6
-      }
-    ],
-    "subtitle": "subtitles.entity.parrot.imitate.wolf"
-  },
   "entity.parrot.imitate.zombie": {
     "sounds": [
       {
@@ -5916,17 +5894,6 @@
       }
     ],
     "subtitle": "subtitles.entity.parrot.imitate.zombie"
-  },
-  "entity.parrot.imitate.zombie_pigman": {
-    "sounds": [
-      {
-        "name": "entity.zombie_pigman.ambient",
-        "pitch": 1.8,
-        "type": "event",
-        "volume": 0.4
-      }
-    ],
-    "subtitle": "subtitles.entity.parrot.imitate.zombie_pigman"
   },
   "entity.parrot.imitate.zombie_villager": {
     "sounds": [

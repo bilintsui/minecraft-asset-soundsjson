@@ -1494,12 +1494,6 @@
     ],
     "subtitle": "subtitles.block.note_block.note"
   },
-  "block.note_block.pling": {
-    "sounds": [
-      "note/pling"
-    ],
-    "subtitle": "subtitles.block.note_block.note"
-  },
   "block.note_block.snare": {
     "sounds": [
       "note/snare"
@@ -1509,6 +1503,51 @@
   "block.note_block.xylophone": {
     "sounds": [
       "note/xylobone"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.cow_bell": {
+    "sounds": [
+      {
+        "name": "note/cow_bell",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.iron_xylophone": {
+    "sounds": [
+      {
+        "name": "note/iron_xylophone",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.didgeridoo": {
+    "sounds": [
+      "note/didgeridoo"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.bit": {
+    "sounds": [
+      "note/bit"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.banjo": {
+    "sounds": [
+      "note/banjo"
+    ],
+    "subtitle": "subtitles.block.note_block.note"
+  },
+  "block.note_block.pling": {
+    "sounds": [
+      {
+        "name": "note/pling",
+        "volume": 0.2
+      }
     ],
     "subtitle": "subtitles.block.note_block.note"
   },
@@ -6975,6 +7014,66 @@
       }
     ],
     "subtitle": "subtitles.entity.wandering_trader.yes"
+  },
+  "entity.wandering_trader.drink_milk": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/drink_milk1",
+        "volume": 1
+      },
+      {
+        "name":  "mob/wandering_trader/drink_milk2",
+        "volume": 1
+      },
+      {
+        "name":  "mob/wandering_trader/drink_milk3",
+        "volume": 1
+      },
+      {
+        "name":  "mob/wandering_trader/drink_milk4",
+        "volume": 1
+      },
+      {
+        "name":  "mob/wandering_trader/drink_milk5",
+        "volume": 1
+      }
+    ]
+  },
+  "entity.wandering_trader.drink_potion": {
+    "sounds": [
+      {
+        "name":  "random/drink",
+        "volume": 0.65
+      },
+      {
+        "name":  "mob/wandering_trader/drink_potion",
+        "volume": 0.7
+      }
+    ]
+  },
+  "entity.wandering_trader.disappeared": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/disappeared1",
+        "volume": 0.8
+      },
+      {
+        "name":  "mob/wandering_trader/disappeared2",
+        "volume": 0.8
+      }
+    ]
+  },
+  "entity.wandering_trader.reappeared": {
+    "sounds": [
+      {
+        "name":  "mob/wandering_trader/reappeared1",
+        "volume": 0.8
+      },
+      {
+        "name":  "mob/wandering_trader/reappeared2",
+        "volume": 0.8
+      }
+    ]
   },
   "entity.witch.ambient": {
     "sounds": [

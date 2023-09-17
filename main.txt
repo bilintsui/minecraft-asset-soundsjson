@@ -5643,17 +5643,6 @@
     ],
     "subtitle": "subtitles.entity.parrot.imitate.ender_dragon"
   },
-  "entity.parrot.imitate.enderman": {
-    "sounds": [
-      {
-        "name": "entity.enderman.ambient",
-        "pitch": 1.7,
-        "type": "event",
-        "volume": 0.5
-      }
-    ],
-    "subtitle": "subtitles.entity.parrot.imitate.enderman"
-  },
   "entity.parrot.imitate.endermite": {
     "sounds": [
       {

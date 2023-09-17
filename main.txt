@@ -25,16 +25,34 @@
   },
   "ambient.underwater.enter": {
     "sounds": [
-      "ambient/underwater/enter1",
-      "ambient/underwater/enter2",
-      "ambient/underwater/enter3"
+      {
+        "name": "ambient/underwater/enter1",
+        "volume": 0.8
+      },
+      {
+        "name": "ambient/underwater/enter2",
+        "volume": 0.8
+      },
+      {
+        "name": "ambient/underwater/enter3",
+        "volume": 0.8
+      }
     ]
   },
   "ambient.underwater.exit": {
     "sounds": [
-      "ambient/underwater/exit1",
-      "ambient/underwater/exit2",
-      "ambient/underwater/exit3"
+      {
+        "name": "ambient/underwater/exit1",
+        "volume": 0.5
+      },
+      {
+        "name": "ambient/underwater/exit2",
+        "volume": 0.5
+      },
+      {
+        "name": "ambient/underwater/exit3",
+        "volume": 0.5
+      }
     ]
   },
   "ambient.underwater.loop": {
@@ -591,7 +609,10 @@
   },
   "block.bubble_column.upwards_inside": {
     "sounds": [
-      "block/bubble_column/upwards_inside"
+      {
+        "name": "block/bubble_column/upwards_inside",
+        "volume": 0.7
+      }
     ],
     "subtitle": "subtitles.block.bubble_column.upwards_inside"
   },
@@ -622,7 +643,10 @@
   },
   "block.bubble_column.whirlpool_inside": {
     "sounds": [
-      "block/bubble_column/whirlpool_inside"
+      {
+        "name": "block/bubble_column/whirlpool_inside",
+        "volume": 0.7
+      }
     ],
     "subtitle": "subtitles.block.bubble_column.whirlpool_inside"
   },
@@ -2348,19 +2372,19 @@
     "sounds": [
       {
         "name": "mob/cat/meow1",
-        "volume": 0.4
+        "volume": 0.6
       },
       {
         "name": "mob/cat/meow2",
-        "volume": 0.3
+        "volume": 0.5
       },
       {
         "name": "mob/cat/meow3",
-        "volume": 0.4
+        "volume": 0.6
       },
       {
         "name": "mob/cat/meow4",
-        "volume": 0.3
+        "volume": 0.5
       }
     ],
     "subtitle": "subtitles.entity.cat.ambient"
@@ -2385,17 +2409,17 @@
     "sounds": [
       {
         "name": "mob/cat/hitt1",
-        "volume": 0.5,
+        "volume": 0.75,
         "pitch": 0.9
       },
       {
         "name": "mob/cat/hitt2",
-        "volume": 0.5,
+        "volume": 0.75,
         "pitch": 0.9
       },
       {
         "name": "mob/cat/hitt3",
-        "volume": 0.5,
+        "volume": 0.75,
         "pitch": 0.9
       }
     ],
@@ -2433,15 +2457,15 @@
     "sounds": [
       {
         "name": "mob/cat/hitt1",
-        "volume": 0.45
+        "volume": 0.65
       },
       {
         "name": "mob/cat/hitt2",
-        "volume": 0.45
+        "volume": 0.65
       },
       {
         "name": "mob/cat/hitt3",
-        "volume": 0.45
+        "volume": 0.65
       }
     ],
     "subtitle": "subtitles.entity.cat.hurt"
@@ -2450,15 +2474,15 @@
     "sounds": [
       {
         "name": "mob/cat/purr1",
-        "volume": 0.4
+        "volume": 0.7
       },
       {
         "name": "mob/cat/purr2",
-        "volume": 0.4
+        "volume": 0.7
       },
       {
         "name": "mob/cat/purr3",
-        "volume": 0.4
+        "volume": 0.7
       }
     ],
     "subtitle": "subtitles.entity.cat.ambient"
@@ -2467,11 +2491,11 @@
     "sounds": [
       {
         "name": "mob/cat/purreow1",
-        "volume": 0.4
+        "volume": 0.5
       },
       {
         "name": "mob/cat/purreow2",
-        "volume": 0.4
+        "volume": 0.5
       }
     ],
     "subtitle": "subtitles.entity.cat.ambient"
@@ -8292,56 +8316,56 @@
     "sounds": [
       {
         "name": "item/plant/netherwart1",
-        "volume": 0.75
+        "volume": 0.9
       },
       {
         "name": "item/plant/netherwart2",
-        "volume": 0.75
+        "volume": 0.9
       },
       {
         "name": "item/plant/netherwart3",
-        "volume": 0.75
+        "volume": 0.9
       },
       {
         "name": "item/plant/netherwart4",
-        "volume": 0.75
+        "volume": 0.9
       },
       {
         "name": "item/plant/netherwart5",
-        "volume": 0.75
+        "volume": 0.9
       },
       {
         "name": "item/plant/netherwart6",
-        "volume": 0.75
+        "volume": 0.9
       },
       {
         "name": "item/plant/netherwart1",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 1.12
       },
       {
         "name": "item/plant/netherwart2",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 1.12
       },
       {
         "name": "item/plant/netherwart3",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 1.12
       },
       {
         "name": "item/plant/netherwart4",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 1.12
       },
       {
         "name": "item/plant/netherwart5",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 1.12
       },
       {
         "name": "item/plant/netherwart6",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 1.12
       }
     ],
@@ -8351,56 +8375,56 @@
     "sounds": [
       {
         "name":  "item/plant/crop1",
-        "volume": 0.4
+        "volume": 0.45
       },
       {
         "name":  "item/plant/crop2",
-        "volume": 0.4
+        "volume": 0.45
       },
       {
         "name": "item/plant/crop3",
-        "volume": 0.4
+        "volume": 0.45
       },
       {
         "name": "item/plant/crop4",
-        "volume": 0.4
+        "volume": 0.45
       },
       {
         "name":  "item/plant/crop5",
-        "volume": 0.4
+        "volume": 0.45
       },
       {
         "name":  "item/plant/crop6",
-        "volume": 0.4
+        "volume": 0.45
       },
       {
         "name":  "item/plant/crop1",
-        "volume": 0.4,
+        "volume": 0.45,
         "pitch": 1.2
       },
       {
         "name":  "item/plant/crop2",
-        "volume": 0.4,
+        "volume": 0.45,
         "pitch": 1.2
       },
       {
         "name": "item/plant/crop3",
-        "volume": 0.4,
+        "volume": 0.45,
         "pitch": 1.2
       },
       {
         "name":  "item/plant/crop4",
-        "volume": 0.4,
+        "volume": 0.45,
         "pitch": 1.2
       },
       {
         "name":  "item/plant/crop5",
-        "volume": 0.4,
+        "volume": 0.45,
         "pitch": 1.2
       },
       {
         "name": "item/plant/crop6",
-        "volume": 0.4,
+        "volume": 0.45,
         "pitch": 1.2
       }
     ],
@@ -8410,27 +8434,27 @@
     "sounds": [
       {
         "name":  "block/bamboo/sapling_place1",
-        "volume": 0.65
+        "volume": 0.9
       },
       {
         "name":  "block/bamboo/sapling_place2",
-        "volume": 0.65
+        "volume": 0.9
       },
       {
         "name": "block/bamboo/sapling_place3",
-        "volume": 0.65
+        "volume": 0.9
       },
       {
         "name": "block/bamboo/sapling_place4",
-        "volume": 0.65
+        "volume": 0.9
       },
       {
         "name":  "block/bamboo/sapling_place5",
-        "volume": 0.65
+        "volume": 0.9
       },
       {
         "name":  "block/bamboo/sapling_place6",
-        "volume": 0.65
+        "volume": 0.9
       }
     ],
     "subtitle": "subtitles.block.generic.break"
@@ -8439,32 +8463,32 @@
     "sounds": [
       {
         "name":  "item/plant/netherwart1",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 0.9
       },
       {
         "name":  "item/plant/netherwart2",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 0.9
       },
       {
         "name": "item/plant/netherwart3",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 0.9
       },
       {
         "name":  "item/plant/netherwart4",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 0.9
       },
       {
         "name":  "item/plant/netherwart5",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 0.9
       },
       {
         "name": "item/plant/netherwart6",
-        "volume": 0.75,
+        "volume": 0.9,
         "pitch": 0.9
       }
     ],
@@ -8881,7 +8905,7 @@
   },
   "ui.button.click": {
     "sounds": [
-      "random/click"
+      "random/click_stereo"
     ]
   },
   "ui.cartography_table.take_result": {

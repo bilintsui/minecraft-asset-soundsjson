@@ -990,11 +990,11 @@
   "block.bamboo.break": {
     "sounds": [
       {
-        "name":  "block/bamboo/place1",
+        "name": "block/bamboo/place1",
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/place2",
+        "name": "block/bamboo/place2",
         "volume": 0.8
       },
       {
@@ -1006,11 +1006,11 @@
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/place5",
+        "name": "block/bamboo/place5",
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/place6",
+        "name": "block/bamboo/place6",
         "volume": 0.8
       }
     ],
@@ -1019,11 +1019,11 @@
   "block.bamboo.fall": {
     "sounds": [
       {
-        "name":  "block/bamboo/step1",
+        "name": "block/bamboo/step1",
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step2",
+        "name": "block/bamboo/step2",
         "volume": 1
       },
       {
@@ -1035,11 +1035,11 @@
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step5",
+        "name": "block/bamboo/step5",
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step6",
+        "name": "block/bamboo/step6",
         "volume": 1
       }
     ]
@@ -1047,11 +1047,11 @@
   "block.bamboo.hit": {
     "sounds": [
       {
-        "name":  "block/bamboo/step1",
+        "name": "block/bamboo/step1",
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step2",
+        "name": "block/bamboo/step2",
         "volume": 1
       },
       {
@@ -1063,11 +1063,11 @@
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step5",
+        "name": "block/bamboo/step5",
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step6",
+        "name": "block/bamboo/step6",
         "volume": 1
       }
     ],
@@ -1076,11 +1076,11 @@
   "block.bamboo.place": {
     "sounds": [
       {
-        "name":  "block/bamboo/place1",
+        "name": "block/bamboo/place1",
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/place2",
+        "name": "block/bamboo/place2",
         "volume": 0.8
       },
       {
@@ -1092,11 +1092,11 @@
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/place5",
+        "name": "block/bamboo/place5",
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/place6",
+        "name": "block/bamboo/place6",
         "volume": 0.8
       }
     ],
@@ -1105,11 +1105,11 @@
   "block.bamboo.step": {
     "sounds": [
       {
-        "name":  "block/bamboo/step1",
+        "name": "block/bamboo/step1",
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step2",
+        "name": "block/bamboo/step2",
         "volume": 1,
         "pitch": 0.7
       },
@@ -1123,11 +1123,11 @@
         "pitch": 0.7
       },
       {
-        "name":  "block/bamboo/step5",
+        "name": "block/bamboo/step5",
         "volume": 1
       },
       {
-        "name":  "block/bamboo/step6",
+        "name": "block/bamboo/step6",
         "volume": 1
       }
     ],
@@ -1136,11 +1136,11 @@
   "block.bamboo_sapling.place": {
     "sounds": [
       {
-        "name":  "block/bamboo/sapling_place1",
+        "name": "block/bamboo/sapling_place1",
         "volume": 0.85
       },
       {
-        "name":  "block/bamboo/sapling_place2",
+        "name": "block/bamboo/sapling_place2",
         "volume": 0.85
       },
       {
@@ -1152,11 +1152,11 @@
         "volume": 0.85
       },
       {
-        "name":  "block/bamboo/sapling_place5",
+        "name": "block/bamboo/sapling_place5",
         "volume": 0.85
       },
       {
-        "name":  "block/bamboo/sapling_place6",
+        "name": "block/bamboo/sapling_place6",
         "volume": 0.85
       }
     ],
@@ -1165,11 +1165,11 @@
   "block.bamboo_sapling.break": {
     "sounds": [
       {
-        "name":  "block/bamboo/sapling_place1",
+        "name": "block/bamboo/sapling_place1",
         "volume": 0.9
       },
       {
-        "name":  "block/bamboo/sapling_place2",
+        "name": "block/bamboo/sapling_place2",
         "volume": 0.9
       },
       {
@@ -1181,11 +1181,11 @@
         "volume": 0.9
       },
       {
-        "name":  "block/bamboo/sapling_place5",
+        "name": "block/bamboo/sapling_place5",
         "volume": 0.9
       },
       {
-        "name":  "block/bamboo/sapling_place6",
+        "name": "block/bamboo/sapling_place6",
         "volume": 0.9
       }
     ],
@@ -1194,11 +1194,11 @@
   "block.bamboo_sapling.hit": {
     "sounds": [
       {
-        "name":  "block/bamboo/sapling_hit1",
+        "name": "block/bamboo/sapling_hit1",
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/sapling_hit2",
+        "name": "block/bamboo/sapling_hit2",
         "volume": 0.8
       },
       {
@@ -1210,7 +1210,7 @@
         "volume": 0.8
       },
       {
-        "name":  "block/bamboo/sapling_hit5",
+        "name": "block/bamboo/sapling_hit5",
         "volume": 0.8
       }
     ],
@@ -1219,7 +1219,7 @@
   "block.barrel.close": {
     "sounds": [
       {
-        "name":  "block/barrel/close",
+        "name": "block/barrel/close",
         "volume": 1
       }
     ],
@@ -1228,12 +1228,12 @@
   "block.barrel.open": {
     "sounds": [
       {
-        "name":  "block/barrel/open1",
+        "name": "block/barrel/open1",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/barrel/open2",
+        "name": "block/barrel/open2",
         "volume": 1,
         "pitch": 1
       }
@@ -1981,11 +1981,11 @@
   "block.grindstone.use": {
     "sounds": [
       {
-        "name":  "block/grindstone/grindstone1",
+        "name": "block/grindstone/grindstone1",
         "volume": 0.5
       },
       {
-        "name":  "block/grindstone/grindstone2",
+        "name": "block/grindstone/grindstone2",
         "volume": 0.5
       },
       {
@@ -1998,11 +1998,11 @@
   "block.wet_grass.break": {
     "sounds": [
       {
-        "name":  "dig/wet_grass1",
+        "name": "dig/wet_grass1",
         "volume": 0.8
       },
       {
-        "name":  "dig/wet_grass2",
+        "name": "dig/wet_grass2",
         "volume": 0.8
       },
       {
@@ -2040,11 +2040,11 @@
   "block.wet_grass.place": {
     "sounds": [
       {
-        "name":  "dig/wet_grass1",
+        "name": "dig/wet_grass1",
         "volume": 0.8
       },
       {
-        "name":  "dig/wet_grass2",
+        "name": "dig/wet_grass2",
         "volume": 0.8
       },
       {
@@ -2146,7 +2146,7 @@
     "sounds": [
       {
         "attenuation_distance": 7,
-        "name":  "block/respawn_anchor/ambient1"
+        "name": "block/respawn_anchor/ambient1"
       },
       {
         "attenuation_distance": 7,
@@ -2535,6 +2535,98 @@
       "step/stone5",
       "step/stone6"
     ]
+  },
+  "block.chain.break": {
+    "sounds": [
+      {
+        "name": "block/chain/break1",
+        "volume": 0.5
+      },
+      {
+        "name": "block/chain/break2",
+        "volume": 0.5
+      },
+      {
+        "name": "block/chain/break3",
+        "volume": 0.5
+      },
+      {
+        "name": "block/chain/break4",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.chain.fall": {
+    "sounds": [
+      "block/chain/step1",
+      "block/chain/step2",
+      "block/chain/step3",
+      "block/chain/step4",
+      "block/chain/step5",
+      "block/chain/step6"
+    ]
+  },
+  "block.chain.hit": {
+    "sounds": [
+      {
+        "name": "block/chain/step1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/step2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/step3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/step4",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/step5",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/step6",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.chain.place": {
+    "sounds": [
+      {
+        "name": "block/chain/break1",
+        "volume": 0.5
+      },
+      {
+        "name": "block/chain/break2",
+        "volume": 0.5
+      },
+      {
+        "name": "block/chain/break3",
+        "volume": 0.5
+      },
+      {
+        "name": "block/chain/break4",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.chain.step": {
+    "sounds": [
+      "block/chain/step1",
+      "block/chain/step2",
+      "block/chain/step3",
+      "block/chain/step4",
+      "block/chain/step5",
+      "block/chain/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
   },
   "block.metal.break": {
     "sounds": [
@@ -2941,17 +3033,17 @@
   "block.smithing_table.use": {
     "sounds": [
       {
-        "name":  "block/smithing_table/smithing_table1",
+        "name": "block/smithing_table/smithing_table1",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/smithing_table/smithing_table2",
+        "name": "block/smithing_table/smithing_table2",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/smithing_table/smithing_table3",
+        "name": "block/smithing_table/smithing_table3",
         "volume": 1,
         "pitch": 1
       }
@@ -3036,7 +3128,7 @@
         "volume": 0.55
       },
       {
-        "name":  "block/soul_sand/step3",
+        "name": "block/soul_sand/step3",
         "volume": 0.55
       },
       {
@@ -3085,7 +3177,7 @@
         "volume": 0.8
       },
       {
-        "name":  "block/soul_soil/break3",
+        "name": "block/soul_soil/break3",
         "volume": 0.8
       },
       {
@@ -3123,7 +3215,7 @@
         "volume": 0.66
       },
       {
-        "name":  "block/soul_soil/step3",
+        "name": "block/soul_soil/step3",
         "volume": 0.66
       },
       {
@@ -3148,7 +3240,7 @@
         "volume": 0.8
       },
       {
-        "name":  "block/soul_soil/break3",
+        "name": "block/soul_soil/break3",
         "volume": 0.8
       },
       {
@@ -3179,7 +3271,7 @@
   "block.nylium.break": {
     "sounds": [
       {
-        "name":  "block/nylium/break1",
+        "name": "block/nylium/break1",
         "volume": 0.85
       },
       {
@@ -3187,7 +3279,7 @@
         "volume": 0.85
       },
       {
-        "name":  "block/nylium/break3",
+        "name": "block/nylium/break3",
         "volume": 0.85
       },
       {
@@ -3195,7 +3287,7 @@
         "volume": 0.85
       },
       {
-        "name":  "block/nylium/break5",
+        "name": "block/nylium/break5",
         "volume": 0.85
       },
       {
@@ -3229,7 +3321,7 @@
   "block.nylium.place": {
     "sounds": [
       {
-        "name":  "block/nylium/break1",
+        "name": "block/nylium/break1",
         "volume": 0.85
       },
       {
@@ -3237,7 +3329,7 @@
         "volume": 0.85
       },
       {
-        "name":  "block/nylium/break3",
+        "name": "block/nylium/break3",
         "volume": 0.85
       },
       {
@@ -3245,7 +3337,7 @@
         "volume": 0.85
       },
       {
-        "name":  "block/nylium/break5",
+        "name": "block/nylium/break5",
         "volume": 0.85
       },
       {
@@ -3667,7 +3759,7 @@
         "volume": 0.9
       },
       {
-        "name":  "block/bone_block/break3",
+        "name": "block/bone_block/break3",
         "volume": 0.9
       },
       {
@@ -3711,7 +3803,7 @@
         "volume": 0.9
       },
       {
-        "name":  "block/bone_block/break3",
+        "name": "block/bone_block/break3",
         "volume": 0.9
       },
       {
@@ -3738,15 +3830,15 @@
   "block.nether_bricks.break": {
     "sounds": [
       {
-        "name":  "block/nether_bricks/break1",
+        "name": "block/nether_bricks/break1",
         "volume": 0.8
       },
       {
-        "name":  "block/nether_bricks/break2",
+        "name": "block/nether_bricks/break2",
         "volume": 0.8
       },
       {
-        "name":  "block/nether_bricks/break3",
+        "name": "block/nether_bricks/break3",
         "volume": 0.8
       },
       {
@@ -3788,15 +3880,15 @@
   "block.nether_bricks.place": {
     "sounds": [
       {
-        "name":  "block/nether_bricks/break1",
+        "name": "block/nether_bricks/break1",
         "volume": 0.8
       },
       {
-        "name":  "block/nether_bricks/break2",
+        "name": "block/nether_bricks/break2",
         "volume": 0.8
       },
       {
-        "name":  "block/nether_bricks/break3",
+        "name": "block/nether_bricks/break3",
         "volume": 0.8
       },
       {
@@ -3943,7 +4035,7 @@
   "block.nether_sprouts.step": {
     "sounds": [
       {
-        "name":  "block/nether_sprouts/step1",
+        "name": "block/nether_sprouts/step1",
         "volume": 0.5
       },
       {
@@ -3951,7 +4043,7 @@
         "volume": 0.5
       },
       {
-        "name":  "block/nether_sprouts/step3",
+        "name": "block/nether_sprouts/step3",
         "volume": 0.5
       },
       {
@@ -3976,7 +4068,7 @@
         "volume": 0.8
       },
       {
-        "name":  "block/netherwart/break3",
+        "name": "block/netherwart/break3",
         "volume": 0.8
       },
       {
@@ -4014,7 +4106,7 @@
         "volume": 0.7
       },
       {
-        "name":  "block/netherwart/step3",
+        "name": "block/netherwart/step3",
         "volume": 0.7
       },
       {
@@ -4039,7 +4131,7 @@
         "volume": 0.8
       },
       {
-        "name":  "block/netherwart/break3",
+        "name": "block/netherwart/break3",
         "volume": 0.8
       },
       {
@@ -4105,6 +4197,100 @@
     "subtitle": "subtitles.block.generic.place"
   },
   "block.nether_ore.step": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.nether_gold_ore.break": {
+    "sounds": [
+      "block/nether_ore/break1",
+      "block/nether_ore/break2",
+      "block/nether_ore/break3",
+      "block/nether_ore/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.nether_gold_ore.fall": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ]
+  },
+  "block.nether_gold_ore.hit": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.nether_gold_ore.place": {
+    "sounds": [
+      "block/nether_ore/break1",
+      "block/nether_ore/break2",
+      "block/nether_ore/break3",
+      "block/nether_ore/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.nether_gold_ore.step": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.gilded_blackstone.break": {
+    "sounds": [
+      "block/nether_ore/break1",
+      "block/nether_ore/break2",
+      "block/nether_ore/break3",
+      "block/nether_ore/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.gilded_blackstone.fall": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ]
+  },
+  "block.gilded_blackstone.hit": {
+    "sounds": [
+      "block/nether_ore/step1",
+      "block/nether_ore/step2",
+      "block/nether_ore/step3",
+      "block/nether_ore/step4",
+      "block/nether_ore/step5"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.gilded_blackstone.place": {
+    "sounds": [
+      "block/nether_ore/break1",
+      "block/nether_ore/break2",
+      "block/nether_ore/break3",
+      "block/nether_ore/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.gilded_blackstone.step": {
     "sounds": [
       "block/nether_ore/step1",
       "block/nether_ore/step2",
@@ -5902,11 +6088,11 @@
         "volume": 0.75
       },
       {
-        "name":  "mob/fox/hurt3",
+        "name": "mob/fox/hurt3",
         "volume": 0.75
       },
       {
-        "name":  "mob/fox/hurt4",
+        "name": "mob/fox/hurt4",
         "volume": 0.75
       }
     ],
@@ -6285,7 +6471,7 @@
   "entity.hoglin.ambient": {
     "sounds": [
       {
-        "name":  "mob/hoglin/idle1",
+        "name": "mob/hoglin/idle1",
         "volume": 0.65
       },
       {
@@ -6334,7 +6520,7 @@
   "entity.hoglin.angry": {
     "sounds": [
       {
-        "name":  "mob/hoglin/angry1",
+        "name": "mob/hoglin/angry1",
         "volume": 1
       },
       {
@@ -6363,7 +6549,7 @@
   "entity.hoglin.attack": {
     "sounds": [
       {
-        "name":  "mob/hoglin/attack1",
+        "name": "mob/hoglin/attack1",
         "volume": 0.8
       },
       {
@@ -6371,7 +6557,7 @@
         "volume": 0.8
       },
       {
-        "name":  "mob/hoglin/attack1",
+        "name": "mob/hoglin/attack1",
         "volume": 0.8,
         "pitch": 0.8
       },
@@ -6386,7 +6572,7 @@
   "entity.hoglin.converted_to_zombified": {
     "sounds": [
       {
-        "name":  "mob/hoglin/converted1",
+        "name": "mob/hoglin/converted1",
         "volume": 0.8
       },
       {
@@ -6399,7 +6585,7 @@
   "entity.hoglin.hurt": {
     "sounds": [
       {
-        "name":  "mob/hoglin/hurt1",
+        "name": "mob/hoglin/hurt1",
         "volume": 0.8
       },
       {
@@ -6420,7 +6606,7 @@
   "entity.hoglin.death": {
     "sounds": [
       {
-        "name":  "mob/hoglin/death1",
+        "name": "mob/hoglin/death1",
         "volume": 0.9
       },
       {
@@ -6437,7 +6623,7 @@
   "entity.hoglin.retreat": {
     "sounds": [
       {
-        "name":  "mob/hoglin/retreat1",
+        "name": "mob/hoglin/retreat1",
         "volume": 0.7
       },
       {
@@ -6458,7 +6644,7 @@
   "entity.hoglin.step": {
     "sounds": [
       {
-        "name":  "mob/hoglin/step1",
+        "name": "mob/hoglin/step1",
         "volume": 1
       },
       {
@@ -6470,7 +6656,7 @@
         "volume": 1
       },
       {
-        "name":  "mob/hoglin/step4",
+        "name": "mob/hoglin/step4",
         "volume": 1
       },
       {
@@ -6538,7 +6724,7 @@
   "entity.zoglin.attack": {
     "sounds": [
       {
-        "name":  "mob/zoglin/attack1",
+        "name": "mob/zoglin/attack1",
         "volume": 0.8
       },
       {
@@ -6595,7 +6781,7 @@
   "entity.zoglin.step": {
     "sounds": [
       {
-        "name":  "mob/zoglin/step1",
+        "name": "mob/zoglin/step1",
         "volume": 1
       },
       {
@@ -8484,7 +8670,7 @@
   "entity.piglin.angry": {
     "sounds": [
       {
-        "name":  "mob/piglin/angry1",
+        "name": "mob/piglin/angry1",
         "volume": 0.7
       },
       {
@@ -8505,7 +8691,7 @@
   "entity.piglin.celebrate": {
     "sounds": [
       {
-        "name":  "mob/piglin/celebrate1",
+        "name": "mob/piglin/celebrate1",
         "volume": 0.8
       },
       {
@@ -8526,7 +8712,7 @@
   "entity.piglin.converted_to_zombified": {
     "sounds": [
       {
-        "name":  "mob/piglin/converted1",
+        "name": "mob/piglin/converted1",
         "volume": 1
       },
       {
@@ -8539,7 +8725,7 @@
   "entity.piglin.hurt": {
     "sounds": [
       {
-        "name":  "mob/piglin/hurt1",
+        "name": "mob/piglin/hurt1",
         "volume": 0.7
       },
       {
@@ -8556,7 +8742,7 @@
   "entity.piglin.death": {
     "sounds": [
       {
-        "name":  "mob/piglin/death1",
+        "name": "mob/piglin/death1",
         "volume": 0.7
       },
       {
@@ -8577,7 +8763,7 @@
   "entity.piglin.retreat": {
     "sounds": [
       {
-        "name":  "mob/piglin/retreat1",
+        "name": "mob/piglin/retreat1",
         "volume": 0.7
       },
       {
@@ -8598,7 +8784,7 @@
   "entity.piglin.step": {
     "sounds": [
       {
-        "name":  "mob/piglin/step1",
+        "name": "mob/piglin/step1",
         "volume": 0.75
       },
       {
@@ -8623,7 +8809,7 @@
   "entity.piglin.jealous": {
     "sounds": [
       {
-        "name":  "mob/piglin/jealous1",
+        "name": "mob/piglin/jealous1",
         "volume": 0.8
       },
       {
@@ -10250,23 +10436,23 @@
   "entity.villager.work_butcher": {
     "sounds": [
       {
-        "name":  "block/smoker/smoker1",
+        "name": "block/smoker/smoker1",
         "volume": 1
       },
       {
-        "name":  "block/smoker/smoker2",
+        "name": "block/smoker/smoker2",
         "volume": 1
       },
       {
-        "name":  "block/smoker/smoker3",
+        "name": "block/smoker/smoker3",
         "volume": 1
       },
       {
-        "name":  "block/smoker/smoker4",
+        "name": "block/smoker/smoker4",
         "volume": 1
       },
       {
-        "name":  "block/smoker/smoker5",
+        "name": "block/smoker/smoker5",
         "volume": 1
       }
     ],
@@ -10311,12 +10497,12 @@
   "entity.villager.work_fisherman": {
     "sounds": [
       {
-        "name":  "block/barrel/open1",
+        "name": "block/barrel/open1",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/barrel/open2",
+        "name": "block/barrel/open2",
         "volume": 1,
         "pitch": 1
       }
@@ -10326,12 +10512,12 @@
   "entity.villager.work_fletcher": {
     "sounds": [
       {
-        "name":  "block/fletching_table/fletching_table1",
+        "name": "block/fletching_table/fletching_table1",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/fletching_table/fletching_table2",
+        "name": "block/fletching_table/fletching_table2",
         "volume": 1,
         "pitch": 1
       }
@@ -10366,7 +10552,7 @@
         "volume": 2
       },
       {
-        "name":"item/book/open_flip3",
+        "name": "item/book/open_flip3",
         "volume": 2
       }
     ],
@@ -10384,11 +10570,11 @@
         "pitch": 0.92
       },
       {
-        "name":"ui/stonecutter/cut2",
+        "name": "ui/stonecutter/cut2",
         "volume": 1
       },
       {
-        "name":"ui/stonecutter/cut2",
+        "name": "ui/stonecutter/cut2",
         "volume": 1,
         "pitch": 0.92
       }
@@ -10411,17 +10597,17 @@
   "entity.villager.work_toolsmith": {
     "sounds": [
       {
-        "name":  "block/smithing_table/smithing_table1",
+        "name": "block/smithing_table/smithing_table1",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/smithing_table/smithing_table2",
+        "name": "block/smithing_table/smithing_table2",
         "volume": 1,
         "pitch": 1
       },
       {
-        "name":  "block/smithing_table/smithing_table3",
+        "name": "block/smithing_table/smithing_table3",
         "volume": 1,
         "pitch": 1
       }
@@ -10431,11 +10617,11 @@
   "entity.villager.work_weaponsmith": {
     "sounds": [
       {
-        "name":  "block/grindstone/grindstone1",
+        "name": "block/grindstone/grindstone1",
         "volume": 0.5
       },
       {
-        "name":  "block/grindstone/grindstone2",
+        "name": "block/grindstone/grindstone2",
         "volume": 0.5
       },
       {
@@ -10480,7 +10666,7 @@
   "entity.wandering_trader.ambient": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/idle1",
+        "name": "mob/wandering_trader/idle1",
         "volume": 1
       },
       {
@@ -10505,7 +10691,7 @@
   "entity.wandering_trader.death": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/death",
+        "name": "mob/wandering_trader/death",
         "volume": 1
       }
     ],
@@ -10514,7 +10700,7 @@
   "entity.wandering_trader.hurt": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/hurt1",
+        "name": "mob/wandering_trader/hurt1",
         "volume": 1
       },
       {
@@ -10535,7 +10721,7 @@
   "entity.wandering_trader.no": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/no1",
+        "name": "mob/wandering_trader/no1",
         "volume": 1
       },
       {
@@ -10560,7 +10746,7 @@
   "entity.wandering_trader.trade": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/haggle1",
+        "name": "mob/wandering_trader/haggle1",
         "volume": 1
       },
       {
@@ -10577,7 +10763,7 @@
   "entity.wandering_trader.yes": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/yes1",
+        "name": "mob/wandering_trader/yes1",
         "volume": 1
       },
       {
@@ -10598,23 +10784,23 @@
   "entity.wandering_trader.drink_milk": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/drink_milk1",
+        "name": "mob/wandering_trader/drink_milk1",
         "volume": 1
       },
       {
-        "name":  "mob/wandering_trader/drink_milk2",
+        "name": "mob/wandering_trader/drink_milk2",
         "volume": 1
       },
       {
-        "name":  "mob/wandering_trader/drink_milk3",
+        "name": "mob/wandering_trader/drink_milk3",
         "volume": 1
       },
       {
-        "name":  "mob/wandering_trader/drink_milk4",
+        "name": "mob/wandering_trader/drink_milk4",
         "volume": 1
       },
       {
-        "name":  "mob/wandering_trader/drink_milk5",
+        "name": "mob/wandering_trader/drink_milk5",
         "volume": 1
       }
     ],
@@ -10623,11 +10809,11 @@
   "entity.wandering_trader.drink_potion": {
     "sounds": [
       {
-        "name":  "random/drink",
+        "name": "random/drink",
         "volume": 0.65
       },
       {
-        "name":  "mob/wandering_trader/drink_potion",
+        "name": "mob/wandering_trader/drink_potion",
         "volume": 0.7
       }
     ],
@@ -10636,11 +10822,11 @@
   "entity.wandering_trader.disappeared": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/disappeared1",
+        "name": "mob/wandering_trader/disappeared1",
         "volume": 0.8
       },
       {
-        "name":  "mob/wandering_trader/disappeared2",
+        "name": "mob/wandering_trader/disappeared2",
         "volume": 0.8
       }
     ],
@@ -10649,11 +10835,11 @@
   "entity.wandering_trader.reappeared": {
     "sounds": [
       {
-        "name":  "mob/wandering_trader/reappeared1",
+        "name": "mob/wandering_trader/reappeared1",
         "volume": 0.8
       },
       {
-        "name":  "mob/wandering_trader/reappeared2",
+        "name": "mob/wandering_trader/reappeared2",
         "volume": 0.8
       }
     ],
@@ -11211,7 +11397,7 @@
         "volume": 2
       },
       {
-        "name":"item/book/open_flip3",
+        "name": "item/book/open_flip3",
         "volume": 2
       }
     ],
@@ -11689,11 +11875,11 @@
   "item.crop.plant": {
     "sounds": [
       {
-        "name":  "item/plant/crop1",
+        "name": "item/plant/crop1",
         "volume": 0.45
       },
       {
-        "name":  "item/plant/crop2",
+        "name": "item/plant/crop2",
         "volume": 0.45
       },
       {
@@ -11705,20 +11891,20 @@
         "volume": 0.45
       },
       {
-        "name":  "item/plant/crop5",
+        "name": "item/plant/crop5",
         "volume": 0.45
       },
       {
-        "name":  "item/plant/crop6",
+        "name": "item/plant/crop6",
         "volume": 0.45
       },
       {
-        "name":  "item/plant/crop1",
+        "name": "item/plant/crop1",
         "volume": 0.45,
         "pitch": 1.2
       },
       {
-        "name":  "item/plant/crop2",
+        "name": "item/plant/crop2",
         "volume": 0.45,
         "pitch": 1.2
       },
@@ -11728,12 +11914,12 @@
         "pitch": 1.2
       },
       {
-        "name":  "item/plant/crop4",
+        "name": "item/plant/crop4",
         "volume": 0.45,
         "pitch": 1.2
       },
       {
-        "name":  "item/plant/crop5",
+        "name": "item/plant/crop5",
         "volume": 0.45,
         "pitch": 1.2
       },
@@ -11748,11 +11934,11 @@
   "block.crop.break": {
     "sounds": [
       {
-        "name":  "block/bamboo/sapling_place1",
+        "name": "block/bamboo/sapling_place1",
         "volume": 0.9
       },
       {
-        "name":  "block/bamboo/sapling_place2",
+        "name": "block/bamboo/sapling_place2",
         "volume": 0.9
       },
       {
@@ -11764,11 +11950,11 @@
         "volume": 0.9
       },
       {
-        "name":  "block/bamboo/sapling_place5",
+        "name": "block/bamboo/sapling_place5",
         "volume": 0.9
       },
       {
-        "name":  "block/bamboo/sapling_place6",
+        "name": "block/bamboo/sapling_place6",
         "volume": 0.9
       }
     ],
@@ -11777,12 +11963,12 @@
   "block.nether_wart.break": {
     "sounds": [
       {
-        "name":  "item/plant/netherwart1",
+        "name": "item/plant/netherwart1",
         "volume": 0.9,
         "pitch": 0.9
       },
       {
-        "name":  "item/plant/netherwart2",
+        "name": "item/plant/netherwart2",
         "volume": 0.9,
         "pitch": 0.9
       },
@@ -11792,12 +11978,12 @@
         "pitch": 0.9
       },
       {
-        "name":  "item/plant/netherwart4",
+        "name": "item/plant/netherwart4",
         "volume": 0.9,
         "pitch": 0.9
       },
       {
-        "name":  "item/plant/netherwart5",
+        "name": "item/plant/netherwart5",
         "volume": 0.9,
         "pitch": 0.9
       },
@@ -12254,6 +12440,7 @@
       {
         "name": "music/game/nether/soulsand_valley/so_below",
         "stream": true,
+        "volume": 0.5,
         "weight": 7
       },
       {
@@ -12283,6 +12470,7 @@
       {
         "name": "music/game/nether/nether_wastes/rubedo",
         "stream": true,
+        "volume": 0.5,
         "weight": 6
       },
       {
@@ -12312,6 +12500,7 @@
       {
         "name": "music/game/nether/soulsand_valley/so_below",
         "stream": true,
+        "volume": 0.5,
         "weight": 7
       },
       {
@@ -12341,6 +12530,7 @@
       {
         "name": "music/game/nether/crimson_forest/chrysopoeia",
         "stream": true,
+        "volume": 0.5,
         "weight": 7
       },
       {
@@ -12563,7 +12753,7 @@
       }
     ]
   },
-  "ui.stonecutter.select_recipe" : {
+  "ui.stonecutter.select_recipe": {
     "sounds": [
       "random/click"
     ]
@@ -12580,11 +12770,11 @@
         "pitch": 0.92
       },
       {
-        "name":"ui/stonecutter/cut2",
+        "name": "ui/stonecutter/cut2",
         "volume": 1
       },
       {
-        "name":"ui/stonecutter/cut2",
+        "name": "ui/stonecutter/cut2",
         "volume": 1,
         "pitch": 0.92
       }

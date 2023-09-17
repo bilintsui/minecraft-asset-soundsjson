@@ -2501,19 +2501,19 @@
     "sounds": [
       {
         "name": "block/calcite/break1",
-        "volume": 1
+        "volume": 0.9
       },
       {
         "name": "block/calcite/break2",
-        "volume": 1
+        "volume": 0.9
       },
       {
         "name": "block/calcite/break3",
-        "volume": 1
+        "volume": 0.9
       },
       {
         "name": "block/calcite/break4",
-        "volume": 1
+        "volume": 0.9
       }
     ],
     "subtitle": "subtitles.block.generic.break"
@@ -2579,19 +2579,19 @@
     "sounds": [
       {
         "name": "block/calcite/place1",
-        "volume": 1
+        "volume": 0.94
       },
       {
         "name": "block/calcite/place2",
-        "volume": 1
+        "volume": 0.94
       },
       {
         "name": "block/calcite/place3",
-        "volume": 1
+        "volume": 0.94
       },
       {
         "name": "block/calcite/place4",
-        "volume": 1
+        "volume": 0.94
       }
     ],
     "subtitle": "subtitles.block.generic.place"

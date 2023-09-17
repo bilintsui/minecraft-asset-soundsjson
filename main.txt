@@ -3317,6 +3317,232 @@
     ],
     "subtitle": "subtitles.entity.fishing_bobber.throw"
   },
+  "entity.fox.ambient": {
+    "sounds": [
+      {
+        "name": "mob/fox/idle1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/fox/idle2",
+        "volume": 1
+      },
+      {
+        "name": "mob/fox/idle3",
+        "volume": 1
+      },
+      {
+        "name": "mob/fox/idle4",
+        "volume": 1
+      },
+      {
+        "name": "mob/fox/idle5",
+        "volume": 1
+      },
+      {
+        "name": "mob/fox/idle6",
+        "volume": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.ambient"
+  },
+  "entity.fox.hurt": {
+    "sounds": [
+      {
+        "name": "mob/fox/hurt1",
+        "volume": 0.75
+      },
+      {
+        "name": "mob/fox/hurt2",
+        "volume": 0.75
+      },
+      {
+        "name":  "mob/fox/hurt3",
+        "volume": 0.75
+      },
+      {
+        "name":  "mob/fox/hurt4",
+        "volume": 0.75
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.hurt"
+  },
+  "entity.fox.death": {
+    "sounds": [
+      {
+        "name": "mob/fox/death1",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/fox/death2",
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.death"
+  },
+  "entity.fox.aggro": {
+    "sounds": [
+      {
+        "name": "mob/fox/aggro1",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/aggro2",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/aggro3",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/aggro4",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/aggro5",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/aggro6",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/aggro7",
+        "volume": 0.65
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.aggro"
+  },
+  "entity.fox.sniff": {
+    "sounds": [
+      {
+        "name": "mob/fox/sniff1",
+        "volume": 0.6
+      },
+      {
+        "name": "mob/fox/sniff2",
+        "volume": 0.6
+      },
+      {
+        "name": "mob/fox/sniff3",
+        "volume": 0.6
+      },
+      {
+        "name": "mob/fox/sniff4",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.sniff"
+  },
+  "entity.fox.bite": {
+    "sounds": [
+      {
+        "name": "mob/fox/bite1",
+        "volume": 0.6,
+        "pitch": 1.1
+      },
+      {
+        "name": "mob/fox/bite2",
+        "volume": 0.6,
+        "pitch": 1.1
+      },
+      {
+        "name": "mob/fox/bite3",
+        "volume": 0.6,
+        "pitch": 1.1
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.bite"
+  },
+  "entity.fox.eat": {
+    "sounds": [
+      {
+        "name": "mob/fox/eat1",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/eat2",
+        "volume": 0.65
+      },
+      {
+        "name": "mob/fox/eat3",
+        "volume": 0.65
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.eat"
+  },
+  "entity.fox.bark": {
+    "sounds": [
+      {
+        "name": "mob/fox/bark1",
+        "attenuation_distance": 32,
+        "volume": 0.45
+      },
+      {
+        "name": "mob/fox/bark2",
+        "attenuation_distance": 32,
+        "volume": 0.45
+      },
+      {
+        "name": "mob/fox/bark3",
+        "attenuation_distance": 32,
+        "volume": 0.45
+      },
+      {
+        "name": "mob/fox/bark4",
+        "attenuation_distance": 32,
+        "volume": 0.4
+      },
+      {
+        "name": "mob/fox/bark5",
+        "attenuation_distance": 32,
+        "volume": 0.3
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.bark"
+  },
+  "entity.fox.sleep": {
+    "sounds": [
+      {
+        "name": "mob/fox/sleep1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/fox/sleep2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/fox/sleep3",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/fox/sleep4",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/fox/sleep5",
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.sleep"
+  },
+  "entity.fox.spit": {
+    "sounds": [
+      {
+        "name": "mob/fox/spit1",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/fox/spit2",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/fox/spit3",
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.entity.fox.spit"
+  },
   "entity.generic.big_fall": {
     "sounds": [
       "damage/fallbig"

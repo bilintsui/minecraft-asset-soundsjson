@@ -2818,7 +2818,8 @@
   "block.portal.trigger": {
     "sounds": [
       "portal/trigger"
-    ]
+    ],
+    "subtitle": "subtitles.block.portal.trigger"
   },
   "block.pumpkin.carve": {
     "sounds": [
@@ -5130,7 +5131,7 @@
         "volume": 0.7
       }
     ],
-    "subtitle": "subtitles.entity.cat.ambient"
+    "subtitle": "subtitles.entity.cat.purr"
   },
   "entity.cat.purreow": {
     "sounds": [
@@ -5514,6 +5515,16 @@
       "mob/horse/donkey/death"
     ],
     "subtitle": "subtitles.entity.donkey.death"
+  },
+  "entity.donkey.eat": {
+    "sounds": [
+      "entity/horse/eat1",
+      "entity/horse/eat2",
+      "entity/horse/eat3",
+      "entity/horse/eat4",
+      "entity/horse/eat5"
+    ],
+    "subtitle": "subtitles.entity.donkey.eat"
   },
   "entity.donkey.hurt": {
     "sounds": [
@@ -6269,6 +6280,13 @@
     ],
     "subtitle": "subtitles.entity.fox.spit"
   },
+  "entity.fox.teleport": {
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ],
+    "subtitle": "subtitles.entity.fox.teleport"
+  },
   "entity.generic.big_fall": {
     "sounds": [
       "damage/fallbig"
@@ -6875,7 +6893,7 @@
     "sounds": [
       "mob/horse/land"
     ],
-    "subtitle": "subtitles.entity.horse.land"
+    "subtitle": "subtitles.entity.generic.big_fall"
   },
   "entity.horse.saddle": {
     "sounds": [
@@ -7677,6 +7695,13 @@
     ],
     "subtitle": "subtitles.entity.mule.ambient"
   },
+  "entity.mule.angry": {
+    "sounds": [
+      "mob/horse/donkey/angry1",
+      "mob/horse/donkey/angry2"
+    ],
+    "subtitle": "subtitles.entity.mule.angry"
+  },
   "entity.mule.chest": {
     "sounds": [
       "mob/chicken/plop"
@@ -7688,6 +7713,16 @@
       "mob/horse/donkey/death"
     ],
     "subtitle": "subtitles.entity.mule.death"
+  },
+  "entity.mule.eat": {
+    "sounds": [
+      "entity/horse/eat1",
+      "entity/horse/eat2",
+      "entity/horse/eat3",
+      "entity/horse/eat4",
+      "entity/horse/eat5"
+    ],
+    "subtitle": "subtitles.entity.mule.eat"
   },
   "entity.mule.hurt": {
     "sounds": [
@@ -8280,6 +8315,17 @@
     ],
     "subtitle": "subtitles.entity.parrot.imitate.guardian"
   },
+  "entity.parrot.imitate.hoglin": {
+    "sounds": [
+      {
+        "name": "entity.hoglin.ambient",
+        "pitch": 1.9,
+        "type": "event",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.hoglin"
+  },
   "entity.parrot.imitate.husk": {
     "sounds": [
       {
@@ -8323,6 +8369,17 @@
       }
     ],
     "subtitle": "subtitles.entity.parrot.imitate.phantom"
+  },
+  "entity.parrot.imitate.piglin": {
+    "sounds": [
+      {
+        "name": "entity.piglin.ambient",
+        "pitch": 1.8,
+        "type": "event",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.piglin"
   },
   "entity.parrot.imitate.pillager": {
     "sounds": [
@@ -8465,6 +8522,17 @@
       }
     ],
     "subtitle": "subtitles.entity.parrot.imitate.wither_skeleton"
+  },
+  "entity.parrot.imitate.zoglin": {
+    "sounds": [
+      {
+        "name": "entity.zoglin.ambient",
+        "pitch": 1.9,
+        "type": "event",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.entity.parrot.imitate.zoglin"
   },
   "entity.parrot.imitate.zombie": {
     "sounds": [
@@ -9136,7 +9204,8 @@
       "mob/polarbear/step2",
       "mob/polarbear/step3",
       "mob/polarbear/step4"
-    ]
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
   },
   "entity.polar_bear.warning": {
     "sounds": [
@@ -11062,13 +11131,13 @@
       "mob/zombie/wood3",
       "mob/zombie/wood4"
     ],
-    "subtitle": "subtitles.block.generic.break"
+    "subtitle": "subtitles.entity.zombie.attack_wooden_door"
   },
   "entity.zombie.break_wooden_door": {
     "sounds": [
       "mob/zombie/woodbreak"
     ],
-    "subtitle": "subtitles.block.generic.break"
+    "subtitle": "subtitles.entity.zombie.break_wooden_door"
   },
   "entity.zombie.converted_to_drowned": {
     "sounds": [
@@ -12691,7 +12760,8 @@
       "ui/cartography_table/drawmap1",
       "ui/cartography_table/drawmap2",
       "ui/cartography_table/drawmap3"
-    ]
+    ],
+    "subtitle":"subtitles.ui.cartography_table.take_result"
   },
   "ui.loom.select_pattern": {
     "sounds": [
@@ -12727,7 +12797,8 @@
         "name": "ui/loom/take_result2",
         "volume": 0.5
       }
-    ]
+    ],
+    "subtitle": "subtitles.ui.loom.take_result"
   },
   "ui.toast.challenge_complete": {
     "sounds": [

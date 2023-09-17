@@ -559,6 +559,17 @@
     ],
     "subtitle": "subtitles.block.bubble_column.whirlpool_inside"
   },
+  "block.campfire.crackle": {
+    "sounds": [
+      "block/campfire/crackle1",
+      "block/campfire/crackle2",
+      "block/campfire/crackle3",
+      "block/campfire/crackle4",
+      "block/campfire/crackle5",
+      "block/campfire/crackle6"
+    ],
+    "subtitle": "subtitles.block.campfire.crackle"
+  },
   "block.chest.close": {
     "sounds": [
       "block/chest/close",
@@ -6546,14 +6557,6 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
-  "event.raid.horn_local": {
-    "sounds": [],
-    "subtitle": "subtitles.event.raid.horn_local"
-  },
-  "event.raid.horn_distant": {
-    "sounds": [],
-    "subtitle": "subtitles.event.raid.horn_distant"
-  },
   "item.armor.equip_chain": {
     "sounds": [
       "item/armor/equip_chain1",
@@ -6685,6 +6688,30 @@
       }
     ],
     "subtitle": "subtitles.item.axe.strip"
+  },
+  "item.book.page_turn": {
+    "sounds": [
+      {
+        "name": "item/book/open_flip1",
+        "volume": 2
+      },
+      {
+        "name": "item/book/open_flip2",
+        "volume": 2
+      },
+      {
+        "name":"item/book/open_flip3",
+        "volume": 2
+      }
+    ],
+    "subtitle": "subtitles.item.book.page_turn"
+  },
+  "item.book.put": {
+    "sounds": [
+      "item/book/close_put1",
+      "item/book/close_put2"
+    ],
+    "subtitle": "subtitles.item.book.put"
   },
   "item.bottle.empty": {
     "sounds": [

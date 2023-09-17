@@ -2657,6 +2657,25 @@
     ],
     "subtitle": "subtitles.block.smoker.smoke"
   },
+  "block.smithing_table.use": {
+    "sounds": [
+      {
+        "name":  "block/smithing_table/smithing_table1",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name":  "block/smithing_table/smithing_table2",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name":  "block/smithing_table/smithing_table3",
+        "volume": 1,
+        "pitch": 1
+      }
+    ]
+  },
   "block.snow.break": {
     "sounds": [
       "dig/snow1",
@@ -3193,6 +3212,16 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.vine.step": {
+    "sounds": [
+      "block/vine/climb1",
+      "block/vine/climb2",
+      "block/vine/climb3",
+      "block/vine/climb4",
+      "block/vine/climb5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.weeping_vines.break": {
     "sounds": [
       "block/roots/break1",
@@ -3238,12 +3267,11 @@
   },
   "block.weeping_vines.step": {
     "sounds": [
-      "block/roots/break1",
-      "block/roots/break2",
-      "block/roots/break3",
-      "block/roots/break4",
-      "block/roots/break5",
-      "block/roots/break6"
+      "block/roots/step1",
+      "block/roots/step2",
+      "block/roots/step3",
+      "block/roots/step4",
+      "block/roots/step5"
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
@@ -4125,6 +4153,76 @@
       "enchant/thorns/hit4"
     ],
     "subtitle": "subtitles.enchant.thorns.hit"
+  },
+  "particle.soul_escape": {
+    "sounds": [
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed1",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed2",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed3",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed4",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed5",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed6",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed7",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed8",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed9",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed10",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed11",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed12",
+        "volume": 0.25
+      },
+      {
+        "attenuation_distance": 12,
+        "name": "enchant/soulspeed/soulspeed13",
+        "volume": 0.25
+      }
+    ],
+    "subtitle": "subtitles.particle.soul_escape"
   },
   "entity.armor_stand.break": {
     "sounds": [

@@ -1468,7 +1468,7 @@
         "volume": 0.8
       }
     ],
-    "subtitle": "subtitles.block.generic.footsteps"
+    "subtitle": "subtitles.block.honey_block.slide"
   },
   "block.honey_block.step": {
     "sounds": [

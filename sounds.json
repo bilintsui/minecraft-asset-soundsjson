@@ -1390,6 +1390,96 @@
     ],
     "subtitle": "subtitles.block.generic.footsteps"
   },
+  "block.honey_block.break": {
+    "sounds": [
+      "block/honeyblock/break1",
+      "block/honeyblock/break2",
+      "block/honeyblock/break3",
+      "block/honeyblock/break4",
+      "block/honeyblock/break5"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.honey_block.fall": {
+    "sounds": [
+      "block/honeyblock/step1",
+      "block/honeyblock/step2",
+      "block/honeyblock/step3",
+      "block/honeyblock/step4",
+      "block/honeyblock/step5"
+    ]
+  },
+  "block.honey_block.hit": {
+    "sounds": [
+      "block/honeyblock/step1",
+      "block/honeyblock/step2",
+      "block/honeyblock/step3",
+      "block/honeyblock/step4",
+      "block/honeyblock/step5"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.honey_block.place": {
+    "sounds": [
+      "block/honeyblock/break1",
+      "block/honeyblock/break2",
+      "block/honeyblock/break3",
+      "block/honeyblock/break4",
+      "block/honeyblock/break5"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.honey_block.slide": {
+    "sounds": [
+      {
+        "name": "block/honeyblock/slide1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide4",
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide1",
+        "pitch": 0.9,
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide2",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide3",
+        "pitch": 0.8,
+        "volume": 0.8
+      },
+      {
+        "name": "block/honeyblock/slide4",
+        "pitch": 0.8,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.honey_block.step": {
+    "sounds": [
+      "block/honeyblock/step1",
+      "block/honeyblock/step2",
+      "block/honeyblock/step3",
+      "block/honeyblock/step4",
+      "block/honeyblock/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
   "block.iron_door.close": {
     "sounds": [
       "block/iron_door/close1",
@@ -4555,6 +4645,35 @@
     ],
     "subtitle": "subtitles.entity.iron_golem.hurt"
   },
+  "entity.iron_golem.repair": {
+    "sounds": [
+      "mob/irongolem/repair"
+    ],
+    "subtitle": "subtitles.entity.iron_golem.repair"
+  },
+  "entity.iron_golem.damage": {
+    "sounds": [
+      {
+        "name": "mob/irongolem/damage1",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/irongolem/damage2",
+        "volume": 0.8
+      },
+      {
+        "name": "mob/irongolem/damage1",
+        "volume": 0.8,
+        "pitch": 0.8
+      },
+      {
+        "name": "mob/irongolem/damage2",
+        "volume": 0.8,
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.entity.iron_golem.damage"
+  },
   "entity.iron_golem.step": {
     "sounds": [
       "mob/irongolem/walk1",
@@ -5611,17 +5730,6 @@
       }
     ],
     "subtitle": "subtitles.entity.parrot.imitate.magma_cube"
-  },
-  "entity.parrot.imitate.panda": {
-    "sounds": [
-      {
-        "name": "entity.panda.ambient",
-        "pitch": 1.8,
-        "type": "event",
-        "volume": 0.4
-      }
-    ],
-    "subtitle": "subtitles.entity.parrot.imitate.panda"
   },
   "entity.parrot.imitate.phantom": {
     "sounds": [
@@ -7529,7 +7637,8 @@
       "mob/vindication_illager/idle1",
       "mob/vindication_illager/idle2",
       "mob/vindication_illager/idle3",
-      "mob/vindication_illager/idle4"
+      "mob/vindication_illager/idle4",
+      "mob/vindication_illager/idle5"
     ],
     "subtitle": "subtitles.entity.vindicator.ambient"
   },

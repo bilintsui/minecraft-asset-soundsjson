@@ -1859,50 +1859,214 @@
   },
   "entity.cat.ambient": {
     "sounds": [
-      "mob/cat/meow1",
-      "mob/cat/meow2",
-      "mob/cat/meow3",
-      "mob/cat/meow4"
+      {
+        "name": "mob/cat/meow1",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/meow2",
+        "volume": 0.3
+      },
+      {
+        "name": "mob/cat/meow3",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/meow4",
+        "volume": 0.3
+      }
     ],
     "subtitle": "subtitles.entity.cat.ambient"
   },
+  "entity.cat.beg_for_food": {
+    "sounds": [
+      {
+        "name": "mob/cat/beg1",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/cat/beg2",
+        "volume": 0.7
+      },
+      {
+        "name": "mob/cat/beg3",
+        "volume": 0.7
+      }
+    ]
+  },
   "entity.cat.death": {
     "sounds": [
-      "mob/cat/hitt1",
-      "mob/cat/hitt2",
-      "mob/cat/hitt3"
+      {
+        "name": "mob/cat/hitt1",
+        "volume": 0.5,
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/cat/hitt2",
+        "volume": 0.5,
+        "pitch": 0.9
+      },
+      {
+        "name": "mob/cat/hitt3",
+        "volume": 0.5,
+        "pitch": 0.9
+      }
     ],
     "subtitle": "subtitles.entity.cat.death"
   },
+  "entity.cat.eat": {
+    "sounds": [
+      {
+        "name": "mob/cat/eat1",
+        "volume": 1
+      },
+      {
+        "name": "mob/cat/eat2",
+        "volume": 1
+      }
+    ]
+  },
   "entity.cat.hiss": {
     "sounds": [
-      "mob/cat/hiss1",
-      "mob/cat/hiss2",
-      "mob/cat/hiss3"
+      {
+        "name": "mob/cat/hiss1",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/hiss2",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/hiss3",
+        "volume": 0.4
+      }
     ]
   },
   "entity.cat.hurt": {
     "sounds": [
-      "mob/cat/hitt1",
-      "mob/cat/hitt2",
-      "mob/cat/hitt3"
+      {
+        "name": "mob/cat/hitt1",
+        "volume": 0.45
+      },
+      {
+        "name": "mob/cat/hitt2",
+        "volume": 0.45
+      },
+      {
+        "name": "mob/cat/hitt3",
+        "volume": 0.45
+      }
     ],
     "subtitle": "subtitles.entity.cat.hurt"
   },
   "entity.cat.purr": {
     "sounds": [
-      "mob/cat/purr1",
-      "mob/cat/purr2",
-      "mob/cat/purr3"
+      {
+        "name": "mob/cat/purr1",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/purr2",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/purr3",
+        "volume": 0.4
+      }
     ],
     "subtitle": "subtitles.entity.cat.ambient"
   },
   "entity.cat.purreow": {
     "sounds": [
-      "mob/cat/purreow1",
-      "mob/cat/purreow2"
+      {
+        "name": "mob/cat/purreow1",
+        "volume": 0.4
+      },
+      {
+        "name": "mob/cat/purreow2",
+        "volume": 0.4
+      }
     ],
     "subtitle": "subtitles.entity.cat.ambient"
+  },
+  "entity.cat.stray_ambient": {
+    "sounds": [
+      {
+        "name": "mob/cat/stray/idle1",
+        "volume": 0.35
+      },
+      {
+        "name": "mob/cat/stray/idle2",
+        "volume": 0.35
+      },
+      {
+        "name": "mob/cat/stray/idle3",
+        "volume": 0.35
+      },
+      {
+        "name": "mob/cat/stray/idle4",
+        "volume": 0.35
+      }
+    ],
+    "subtitle": "subtitles.entity.cat.ambient"
+  },
+  "entity.ocelot.ambient": {
+    "sounds": [
+      {
+        "name": "mob/cat/ocelot/idle1",
+        "volume": 0.3
+      },
+      {
+        "name": "mob/cat/ocelot/idle2",
+        "volume": 0.3
+      },
+      {
+        "name": "mob/cat/ocelot/idle3",
+        "volume": 0.35
+      },
+      {
+        "name": "mob/cat/ocelot/idle4",
+        "volume": 0.45
+      }
+    ],
+    "subtitle": "subtitles.entity.cat.ambient"
+  },
+  "entity.ocelot.hurt": {
+    "sounds": [
+      {
+        "name": "mob/cat/hitt1",
+        "volume": 0.45
+      },
+      {
+        "name": "mob/cat/hitt2",
+        "volume": 0.45
+      },
+      {
+        "name": "mob/cat/hitt3",
+        "volume": 0.45
+      }
+    ],
+    "subtitle": "subtitles.entity.cat.hurt"
+  },
+  "entity.ocelot.death": {
+    "sounds": [
+      {
+        "name": "mob/cat/ocelot/death1",
+        "volume": 0.45,
+        "pitch": 1
+      },
+      {
+        "name": "mob/cat/ocelot/death2",
+        "volume": 0.45,
+        "pitch": 1
+      },
+      {
+        "name": "mob/cat/ocelot/death3",
+        "volume": 0.45,
+        "pitch": 1
+      }
+    ],
+    "subtitle": "subtitles.entity.cat.death"
   },
   "entity.chicken.ambient": {
     "sounds": [

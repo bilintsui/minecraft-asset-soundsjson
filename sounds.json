@@ -22029,6 +22029,12 @@
     ],
     "subtitle": "subtitles.item.ominous_bottle.dispose"
   },
+  "item.shears.snip": {
+    "sounds": [
+      "mob/sheep/shear"
+    ],
+    "subtitle": "subtitles.item.shears.snip"
+  },
   "item.shield.block": {
     "sounds": [
       "item/shield/block1",
@@ -22044,12 +22050,6 @@
       "random/break"
     ],
     "subtitle": "subtitles.entity.item.break"
-  },
-  "item.shears.snip": {
-    "sounds": [
-      "mob/sheep/shear"
-    ],
-    "subtitle": "subtitles.item.shears.snip"
   },
   "item.shovel.flatten": {
     "sounds": [
